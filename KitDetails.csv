@@ -1,4 +1,4 @@
-sku_code,kit_title,product_title,variant_title,product_qty,product_sku,sales_price,cost_price,weight_grams,product_cost_price
+kit_sku,kit_title,product_title,variant_title,product_qty,kit_content,sales_price,cost_price,weight_grams,product_cost_price
 PVC-WALLKIT,PVC Fence /  Wall Kit,"100ft x .5"" black nylon",,1,NYLON100X.5,,20.25,0,19
 PVC-WALLKIT,PVC Fence /  Wall Kit,Mini philips self tap - zinc plated for #2 bit,,1,MINIPSELF,,20.25,0,0.99
 PVC-WALLKIT,PVC Fence /  Wall Kit,#2 Phillips Driver Bit,,1,PHILIPSBIT,,20.25,0,0.26
