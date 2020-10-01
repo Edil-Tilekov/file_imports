@@ -1,0 +1,962 @@
+sku_code,kit_title,product_title,variant_title,product_qty,product_sku,sales_price,cost_price,weight_grams,product_cost_price
+PVC-WALLKIT,PVC Fence /  Wall Kit,"100ft x .5"" black nylon",,1,NYLON100X.5,,20.25,0,19
+PVC-WALLKIT,PVC Fence /  Wall Kit,Mini philips self tap - zinc plated for #2 bit,,1,MINIPSELF,,20.25,0,0.99
+PVC-WALLKIT,PVC Fence /  Wall Kit,#2 Phillips Driver Bit,,1,PHILIPSBIT,,20.25,0,0.26
+PERCH,Purrfect Perch Outdoor Cat Tree,"1 x 6 Cedar (5pc - 12"" with 2 holes, 1pc - 18"" with 2 holes pattern A, 1pc - 18"" with 2 holes patter B)",,1,WOODSETPERCH,,53.59,12,15.78
+PERCH,Purrfect Perch Outdoor Cat Tree,"Gate Latch for 1 3/8"" gate to 1 3/8"" post",,1,EAGPERCHSET,,53.59,12,24.5
+PERCH,Purrfect Perch Outdoor Cat Tree,"Sleeve for 1 3/8"" Posts",,1,SLEEVE138,,53.59,12,3.28
+PERCH,Purrfect Perch Outdoor Cat Tree,Perch Instructions,,1,INS-PERCH,,53.59,12,0
+PERCH,Purrfect Perch Outdoor Cat Tree,"46"" Post Half",,1,POST46,,53.59,12,3.86
+PERCH,Purrfect Perch Outdoor Cat Tree,"46"" Swaged Post Half",,1,POST46SWAGED,,53.59,12,4.07
+PERCH,Purrfect Perch Outdoor Cat Tree,"20"" Post Swage",,1,POST20S,,53.59,12,2.1
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Spring-Loaded Houdini Cat Fence Arm,,12,ARM,,173.02,101.2,2.85
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Conv Sys Shorter Fences Arm Extension Tube,,12,CONVARMEXT,,173.02,101.2,3.4
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Conversion System Arm Mounting Plate,,24,ARMMOUNTINGPLATE,,173.02,101.2,1.42
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),"Set Screw 5/16"" - 18",,25,SETSCREW,,173.02,101.2,0.1
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),6' Height x 100 Poly Fence Roll,,1,FENCE6X100,,173.02,101.2,56.1
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Standard Zip Ties - (100),,2,TIELIGHT,,173.02,101.2,1.01
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Arm to Wall Strap,,2,STRAPAW,,173.02,101.2,0.13
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,173.02,101.2,0.39
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Double-Bubble Single Use Epoxy Pack+ Stir Stick,,3,EPOXY-SINGLEUSE,,173.02,101.2,0.89
+KIT-SHORTCONV-100,Existing Fence Conversion System for Shorter Fences Kit (100 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,173.02,101.2,0
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Spring-Loaded Houdini Cat Fence Arm,,24,ARM,,343.96,201,2.85
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Conv Sys Shorter Fences Arm Extension Tube,,24,CONVARMEXT,,343.96,201,3.4
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Conversion System Arm Mounting Plate,,48,ARMMOUNTINGPLATE,,343.96,201,1.42
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),"Set Screw 5/16"" - 18",,50,SETSCREW,,343.96,201,0.1
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Standard Zip Ties - (100),,4,TIELIGHT,,343.96,201,1.01
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Arm to Wall Strap,,4,STRAPAW,,343.96,201,0.13
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,343.96,201,0.39
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,343.96,201,0
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),6' Height x 100 Poly Fence Roll,,2,FENCE6X100,,343.96,201,56.1
+KIT-SHORTCONV-200,Existing Fence Conversion System for Shorter Fences Kit (200 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,1,EPOXY-SYRINGE,,343.96,201,3.65
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Spring-Loaded Houdini Cat Fence Arm,,36,ARM,,487,249.8,2.85
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Conv Sys Shorter Fences Arm Extension Tube,,36,CONVARMEXT,,487,249.8,3.4
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Conversion System Arm Mounting Plate,,72,ARMMOUNTINGPLATE,,487,249.8,1.42
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),"Set Screw 5/16"" - 18",,74,SETSCREW,,487,249.8,0.1
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Standard Zip Ties - (100),,6,TIELIGHT,,487,249.8,1.01
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Arm to Wall Strap,,4,STRAPAW,,487,249.8,0.13
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,487,249.8,0.39
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,487,249.8,0
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,1,EPOXY-SYRINGE,,487,249.8,3.65
+KIT-SHORTCONV-300,Existing Fence Conversion System for Shorter Fences Kit (300 Feet),6' Height x 330 Poly Fence Roll,,1,FENCE6X330,,487,249.8,141.74
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Spring-Loaded Houdini Cat Fence Arm,,48,ARM,,656.6,349.6,2.85
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Conv Sys Shorter Fences Arm Extension Tube,,48,CONVARMEXT,,656.6,349.6,3.4
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Conversion System Arm Mounting Plate,,96,ARMMOUNTINGPLATE,,656.6,349.6,1.42
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),"Set Screw 5/16"" - 18",,98,SETSCREW,,656.6,349.6,0.1
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Standard Zip Ties - (100),,8,TIELIGHT,,656.6,349.6,1.01
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Arm to Wall Strap,,4,STRAPAW,,656.6,349.6,0.13
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,656.6,349.6,0.39
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,656.6,349.6,0
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),6' Height x 100 Poly Fence Roll,,1,FENCE6X100,,656.6,349.6,56.1
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,1,EPOXY-SYRINGE,,656.6,349.6,3.65
+KIT-SHORTCONV-400,Existing Fence Conversion System for Shorter Fences Kit (400 Feet),6' Height x 330 Poly Fence Roll,,1,FENCE6X330,,656.6,349.6,141.74
+CONV-ARM-ASS,Single Arm Add on Assembly to Conversion Fence System,Spring-Loaded Houdini Cat Fence Arm,,1,ARM,,4.37,3.9,2.85
+CONV-ARM-ASS,Single Arm Add on Assembly to Conversion Fence System,Conversion System Arm Mounting Plate,,1,ARMMOUNTINGPLATE,,4.37,3.9,1.42
+CONV-ARM-ASS,Single Arm Add on Assembly to Conversion Fence System,"Set Screw 5/16"" - 18",,1,SETSCREW,,4.37,3.9,0.1
+CONV-ARM-SHRTASS,Single Arm Add on Assembly to Shorter Fence Conversion System,Spring-Loaded Houdini Cat Fence Arm,,1,ARM,,9.29,6.8,2.85
+CONV-ARM-SHRTASS,Single Arm Add on Assembly to Shorter Fence Conversion System,Conv Sys Shorter Fences Arm Extension Tube,,1,CONVARMEXT,,9.29,6.8,3.4
+CONV-ARM-SHRTASS,Single Arm Add on Assembly to Shorter Fence Conversion System,Conversion System Arm Mounting Plate,,2,ARMMOUNTINGPLATE,,9.29,6.8,1.42
+CONV-ARM-SHRTASS,Single Arm Add on Assembly to Shorter Fence Conversion System,"Set Screw 5/16"" - 18",,2,SETSCREW,,9.29,6.8,0.1
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),Spring-Loaded Houdini Cat Fence Arm,,1,ARM,,14.04,13.9,2.85
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"Set Screw 5/16"" - 18",,2,SETSCREW,,14.04,13.9,0.1
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),Post Cap for 1 3/8in Post,,1,POSTCAP,,14.04,13.9,0.15
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"Sleeve for 1 3/8"" Posts",,1,SLEEVE138,,14.04,13.9,3.28
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"Free-Standing System Arm Mounting for 1 3/8"" Post",,1,ARMMOUNTING138,,14.04,13.9,1.7
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),Self-Drilling and Tapping Screw,,2,SELFTAP,,14.04,13.9,0.05
+KIT-1POST,SINGLE Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"86"" Post",,1,POST86,,14.04,13.9,5.76
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,Spring-Loaded Houdini Cat Fence Arm,,2,ARM,,29.87,28.6,2.85
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,"Set Screw 5/16"" - 18",,5,SETSCREW,,29.87,28.6,0.1
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,Post Cap for 1 3/8in Post,,2,POSTCAP,,29.87,28.6,0.15
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,"Sleeve for 1 3/8"" Posts",,2,SLEEVE138,,29.87,28.6,3.28
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,"Free-Standing System Arm Mounting for 1 3/8"" Post",,2,ARMMOUNTING138,,29.87,28.6,1.7
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,Self-Drilling and Tapping Screw,,5,SELFTAP,,29.87,28.6,0.05
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,29.87,28.6,1.25
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,"86"" Post",,2,POST86,,29.87,28.6,5.76
+KIT-2POST,2 Post Kit Add on to Freestanding Fencing System,Hex Wrench for Set Screws,,1,HEXWRENCH,,29.87,28.6,0.39
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),"86"" Post",,8,POST86,,244.35,175.2,5.76
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Post Cap for 1 3/8in Post,,8,POSTCAP,,244.35,175.2,0.15
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Spring-Loaded Houdini Cat Fence Arm,,8,ARM,,244.35,175.2,2.85
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,8,ARMMOUNTING138,,244.35,175.2,1.7
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),"Sleeve for 1 3/8"" Posts",,8,SLEEVE138,,244.35,175.2,3.28
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),7.5' Height x 100 Poly Fence Roll,,1,FENCE7.5X100,,244.35,175.2,66.66
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),2'x100' Welded Wire,,1,WELDEDWIRE2X100,,244.35,175.2,25
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,244.35,175.2,2.2
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,244.35,175.2,1.25
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),"Set Screw 5/16"" - 18",,17,SETSCREW,,244.35,175.2,0.1
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Self-Drilling and Tapping Screw,,17,SELFTAP,,244.35,175.2,0.05
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,244.35,175.2,0.39
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Arm to Wall Strap,,2,STRAPAW,,244.35,175.2,0.13
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Post to Wall Strap,,4,STRAPPW,,244.35,175.2,0.15
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Heavy Duty Zip Ties (100),,2,TIEHEAVY,,244.35,175.2,4.04
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Standard Zip Ties - (100),,4,TIELIGHT,,244.35,175.2,1.01
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,2,STAKES,,244.35,175.2,11.7
+KIT-FREESTANDING-100,Free-Standing Cat Fence Enclosure System (100 Feet),Freestanding System Instructions,,1,INS-FS,,244.35,175.2,0
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),"86"" Post",,16,POST86,,483.85,346.4,5.76
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Post Cap for 1 3/8in Post,,16,POSTCAP,,483.85,346.4,0.15
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Spring-Loaded Houdini Cat Fence Arm,,16,ARM,,483.85,346.4,2.85
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,16,ARMMOUNTING138,,483.85,346.4,1.7
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),"Sleeve for 1 3/8"" Posts",,16,SLEEVE138,,483.85,346.4,3.28
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),7.5' Height x 100 Poly Fence Roll,,2,FENCE7.5X100,,483.85,346.4,66.66
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),2'x100' Welded Wire,,2,WELDEDWIRE2X100,,483.85,346.4,25
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,483.85,346.4,2.2
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,483.85,346.4,1.25
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),"Set Screw 5/16"" - 18",,33,SETSCREW,,483.85,346.4,0.1
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Self-Drilling and Tapping Screw,,33,SELFTAP,,483.85,346.4,0.05
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,483.85,346.4,0.39
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Arm to Wall Strap,,2,STRAPAW,,483.85,346.4,0.13
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Post to Wall Strap,,4,STRAPPW,,483.85,346.4,0.15
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Heavy Duty Zip Ties (100),,4,TIEHEAVY,,483.85,346.4,4.04
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Standard Zip Ties - (100),,8,TIELIGHT,,483.85,346.4,1.01
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,4,STAKES,,483.85,346.4,11.7
+KIT-FREESTANDING-200,Free-Standing Cat Fence Enclosure System (200 Feet),Freestanding System Instructions,,1,INS-FS,,483.85,346.4,0
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),"86"" Post",,24,POST86,,677.31,518.8,5.76
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Post Cap for 1 3/8in Post,,24,POSTCAP,,677.31,518.8,0.15
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Spring-Loaded Houdini Cat Fence Arm,,24,ARM,,677.31,518.8,2.85
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,24,ARMMOUNTING138,,677.31,518.8,1.7
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),"Sleeve for 1 3/8"" Posts",,24,SLEEVE138,,677.31,518.8,3.28
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),2'x100' Welded Wire,,3,WELDEDWIRE2X100,,677.31,518.8,25
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,677.31,518.8,2.2
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,677.31,518.8,1.25
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),"Set Screw 5/16"" - 18",,49,SETSCREW,,677.31,518.8,0.1
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Self-Drilling and Tapping Screw,,49,SELFTAP,,677.31,518.8,0.05
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,677.31,518.8,0.39
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Arm to Wall Strap,,4,STRAPAW,,677.31,518.8,0.13
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Post to Wall Strap,,8,STRAPPW,,677.31,518.8,0.15
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Heavy Duty Zip Ties (100),,6,TIEHEAVY,,677.31,518.8,4.04
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Standard Zip Ties - (100),,12,TIELIGHT,,677.31,518.8,1.01
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,6,STAKES,,677.31,518.8,11.7
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),Freestanding System Instructions,,1,INS-FS,,677.31,518.8,0
+KIT-FREESTANDING-300,Free-Standing Cat Fence Enclosure System (300 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,1,FENCE7.5X330,,677.31,518.8,153.08
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),"86"" Post",,32,POST86,,916.81,690,5.76
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Post Cap for 1 3/8in Post,,32,POSTCAP,,916.81,690,0.15
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Spring-Loaded Houdini Cat Fence Arm,,32,ARM,,916.81,690,2.85
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,32,ARMMOUNTING138,,916.81,690,1.7
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),"Sleeve for 1 3/8"" Posts",,32,SLEEVE138,,916.81,690,3.28
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),7.5' Height x 100 Poly Fence Roll,,1,FENCE7.5X100,,916.81,690,66.66
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),2'x100' Welded Wire,,4,WELDEDWIRE2X100,,916.81,690,25
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,916.81,690,2.2
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,916.81,690,1.25
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),"Set Screw 5/16"" - 18",,65,SETSCREW,,916.81,690,0.1
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Self-Drilling and Tapping Screw,,65,SELFTAP,,916.81,690,0.05
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,916.81,690,0.39
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Arm to Wall Strap,,4,STRAPAW,,916.81,690,0.13
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Post to Wall Strap,,8,STRAPPW,,916.81,690,0.15
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Heavy Duty Zip Ties (100),,8,TIEHEAVY,,916.81,690,4.04
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Standard Zip Ties - (100),,16,TIELIGHT,,916.81,690,1.01
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,8,STAKES,,916.81,690,11.7
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),Freestanding System Instructions,,1,INS-FS,,916.81,690,0
+KIT-FREESTANDING-400,Free-Standing Cat Fence Enclosure System (400 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,1,FENCE7.5X330,,916.81,690,153.08
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,Spring-Loaded Houdini Cat Fence Arm,,4,ARM,,87.26,80,2.85
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,87.26,80,1.25
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,"Set Screw 5/16"" - 18",,9,SETSCREW,,87.26,80,0.1
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,Self-Drilling and Tapping Screw,,9,SELFTAP,,87.26,80,0.05
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,Hex Wrench for Set Screws,,1,HEXWRENCH,,87.26,80,0.39
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,"Free-Standing System Arm Mounting for 1 5/8"" HD Post",,4,ARMMOUNTING158,,87.26,80,1.88
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,"1 5/8"" Heavy Duty Post 90"" Black",,4,POST158,,87.26,80,10.87
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,"Sleeve for 1 5/8"" Heavy Duty Posts",,4,158SLEEVE,,87.26,80,4.3
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,"Driving Cap for Sleeve for 1 5/8"" HD Posts",,1,158DRIVECAP,,87.26,80,2.75
+HD CORNER POST KIT,Kit of (4) Heavy Duty Corner Post Assemblies,Post Cap for 1 5/8in Post black,,4,158POSTCAP,,87.26,80,0.48
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"86"" Post",,1,POST86,,52.62,12.7,5.76
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"68"" x 1.375"" post",,2,68POST138,,52.62,12.7,5.75
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"37"" x 1.375"" Post",,1,37POST138,,52.62,12.7,3.82
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"33"" x 1.375"" Post",,2,33POST138,,52.62,12.7,3.4
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"Gate Corner for 1 3/8"" Gate Frame",,4,GATECORNER,,52.62,12.7,2.1
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"Sleeve for 1 3/8"" Posts",,1,SLEEVE138,,52.62,12.7,3.28
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),Self-Drilling and Tapping Screw,,2,SELFTAP,,52.62,12.7,0.05
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"Set Screw 5/16"" - 18",,16,SETSCREW,,52.62,12.7,0.1
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),Post Cap for 1 3/8in Post,,1,POSTCAP,,52.62,12.7,0.15
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),Frame Gate Instructions,,1,INS-FRAMEGATE,,52.62,12.7,0
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"2 pack of 3/8"" end rail clamps",,1,ERC38PACK2,,52.62,12.7,2.14
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),Set of 2 male and 2 female hinges for 1 3/8 posts,,1,HINGESET138,,52.62,12.7,4.65
+FRAMEGATE36,Heavy Duty Frame Gate (36 Inch),"Galvanized and Black powdercoated heavy duty Kennel Latch for 1-3/8"" to 1-3/8"" posts. #5287",,1,KENNELLATCH138,,52.62,12.7,4.42
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"86"" Post",,1,POST86,,59.25,12.7,5.76
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"68"" x 1.375"" post",,2,68POST138,,59.25,12.7,5.75
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"Gate Corner for 1 3/8"" Gate Frame",,4,GATECORNER,,59.25,12.7,2.1
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"Sleeve for 1 3/8"" Posts",,1,SLEEVE138,,59.25,12.7,3.28
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),Self-Drilling and Tapping Screw,,2,SELFTAP,,59.25,12.7,0.05
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"Set Screw 5/16"" - 18",,16,SETSCREW,,59.25,12.7,0.1
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),Post Cap for 1 3/8in Post,,1,POSTCAP,,59.25,12.7,0.15
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"49"" x 1.375"" Post",,1,49POST138,,59.25,12.7,5.75
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"45"" x 1.375"" Post",,2,45POST138,,59.25,12.7,5.75
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),Frame Gate Instructions,,1,INS-FRAMEGATE,,59.25,12.7,0
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"2 pack of 3/8"" end rail clamps",,1,ERC38PACK2,,59.25,12.7,2.14
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),Set of 2 male and 2 female hinges for 1 3/8 posts,,1,HINGESET138,,59.25,12.7,4.65
+FRAMEGATE48,Heavy Duty Frame Gate (48 Inch),"Galvanized and Black powdercoated heavy duty Kennel Latch for 1-3/8"" to 1-3/8"" posts. #5287",,1,KENNELLATCH138,,59.25,12.7,4.42
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"86"" Post",,1,POST86,,66.75,12.7,5.76
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"68"" x 1.375"" post",,2,68POST138,,66.75,12.7,5.75
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"Gate Corner for 1 3/8"" Gate Frame",,4,GATECORNER,,66.75,12.7,2.1
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"Sleeve for 1 3/8"" Posts",,1,SLEEVE138,,66.75,12.7,3.28
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),Self-Drilling and Tapping Screw,,2,SELFTAP,,66.75,12.7,0.05
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"Set Screw 5/16"" - 18",,16,SETSCREW,,66.75,12.7,0.1
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),Post Cap for 1 3/8in Post,,1,POSTCAP,,66.75,12.7,0.15
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"61"" x 1.375"" Post",,1,61POST138,,66.75,12.7,5.75
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"57"" x 1.375"" Post",,2,57POST138,,66.75,12.7,5.75
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),Frame Gate Instructions,,1,INS-FRAMEGATE,,66.75,12.7,0
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),fgt,,1,FGTC8,,66.75,12.7,7.5
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),Set of 2 male and 2 female hinges for 1 3/8 posts,,1,HINGESET138,,66.75,12.7,4.65
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"2 pack of 3/8"" end rail clamps",,1,ERC38PACK2,,66.75,12.7,2.14
+FRAMEGATE60,Heavy Duty Frame Gate (60 Inch),"Galvanized and Black powdercoated heavy duty Kennel Latch for 1-3/8"" to 1-3/8"" posts. #5287",,1,KENNELLATCH138,,66.75,12.7,4.42
+UNIMOUNT-ASSEMBLY,2-Pack Arm Add on to Conversion Fence System,Spring-Loaded Houdini Cat Fence Arm,,2,ARM,,9.23,8.2,2.85
+UNIMOUNT-ASSEMBLY,2-Pack Arm Add on to Conversion Fence System,Conversion System Arm Mounting Plate,,2,ARMMOUNTINGPLATE,,9.23,8.2,1.42
+UNIMOUNT-ASSEMBLY,2-Pack Arm Add on to Conversion Fence System,"Set Screw 5/16"" - 18",,3,SETSCREW,,9.23,8.2,0.1
+UNIMOUNT-ASSEMBLY,2-Pack Arm Add on to Conversion Fence System,Hex Wrench for Set Screws,,1,HEXWRENCH,,9.23,8.2,0.39
+HOGRINGER-RINGS,"Hog Ringer & 2,500 Hog Rings","Hog Rings (2,500 count)",,1,HOGRINGS2500,,33.68,4,4.17
+HOGRINGER-RINGS,"Hog Ringer & 2,500 Hog Rings",Hog Ringer (Tool Only),,1,HOGRINGER,,33.68,4,29.51
+GATE60,Access Gate for Freestanding Cat Fence System 60 Inch,30 INCH Access Gate for Freestanding Cat Fence System,,1,GATE30,,33.75,22,23.95
+GATE60,Access Gate for Freestanding Cat Fence System 60 Inch,"60"" Gate Extension Kit For Free Standing Cat Fence System",,1,GATEEX,,33.75,22,9.8
+FS-KIT-HDWR,Free-Standing Kit Harware,"Set Screw 5/16"" - 18",,17,SETSCREW,,4.19,7.2,0.1
+FS-KIT-HDWR,Free-Standing Kit Harware,Self-Drilling and Tapping Screw,,17,SELFTAP,,4.19,7.2,0.05
+FS-KIT-HDWR,Free-Standing Kit Harware,Hex Wrench for Set Screws,,1,HEXWRENCH,,4.19,7.2,0.39
+FS-KIT-HDWR,Free-Standing Kit Harware,3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,4.19,7.2,1.25
+CONV-HDWR,Conversion Kit Hardware,"Set Screw 5/16"" - 18",,13,SETSCREW,,1.69,2.8,0.1
+CONV-HDWR,Conversion Kit Hardware,Hex Wrench for Set Screws,,1,HEXWRENCH,,1.69,2.8,0.39
+516SSWAH-9,Bag of 9 Set Screws,"Set Screw 5/16"" - 18",,9,SETSCREW,,0.9,1.8,0.1
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),Spring-Loaded Houdini Cat Fence Arm,,6,ARM,,50.87,24.8,2.85
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),Conversion System Arm Mounting Plate,,6,ARMMOUNTINGPLATE,,50.87,24.8,1.42
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),"Set Screw 5/16"" - 18",,7,SETSCREW,,50.87,24.8,0.1
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,50.87,24.8,0.39
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),Standard Zip Ties - (100),,1,TIELIGHT,,50.87,24.8,1.01
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,50.87,24.8,22.89
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),Arm to Wall Strap,,2,STRAPAW,,50.87,24.8,0.13
+KIT-CONVERSION-50,Existing Fence Conversion System Kit for Cats (50 Feet),Existing Fence Conversion Instructions,,1,INS-CK,,50.87,24.8,0
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),Spring-Loaded Houdini Cat Fence Arm,,12,ARM,,82.3,64.2,2.85
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),Conversion System Arm Mounting Plate,,12,ARMMOUNTINGPLATE,,82.3,64.2,1.42
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),"Set Screw 5/16"" - 18",,13,SETSCREW,,82.3,64.2,0.1
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,82.3,64.2,0.39
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),Standard Zip Ties - (100),,1,TIELIGHT,,82.3,64.2,1.01
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),Arm to Wall Strap,,2,STRAPAW,,82.3,64.2,0.13
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),4' x 100 Height Poly Fence Roll,,1,FENCE4X100,,82.3,64.2,28.1
+KIT-CONVERSION-100,Existing Fence Conversion System Kit for Cats (100 Feet),Existing Fence Conversion System Instructions,,1,INS-CK,,82.3,64.2,0
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),Spring-Loaded Houdini Cat Fence Arm,,24,ARM,,160.65,117.6,2.85
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),Conversion System Arm Mounting Plate,,24,ARMMOUNTINGPLATE,,160.65,117.6,1.42
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),"Set Screw 5/16"" - 18",,25,SETSCREW,,160.65,117.6,0.1
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,160.65,117.6,0.39
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),Standard Zip Ties - (100),,2,TIELIGHT,,160.65,117.6,1.01
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),Arm to Wall Strap,,2,STRAPAW,,160.65,117.6,0.13
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),Existing Fence Conversion System Instructions,,1,INS-CK,,160.65,117.6,0
+KIT-CONVERSION-200,Existing Fence Conversion System Kit for Cats (200 Feet),4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,160.65,117.6,53
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),Spring-Loaded Houdini Cat Fence Arm,,36,ARM,,259.32,169.4,2.85
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),Conversion System Arm Mounting Plate,,36,ARMMOUNTINGPLATE,,259.32,169.4,1.42
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),"Set Screw 5/16"" - 18",,37,SETSCREW,,259.32,169.4,0.1
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,259.32,169.4,0.39
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),Standard Zip Ties - (100),,3,TIELIGHT,,259.32,169.4,1.01
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),Arm to Wall Strap,,4,STRAPAW,,259.32,169.4,0.13
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),Existing Fence Conversion System Instructions,,1,INS-CK,,259.32,169.4,0
+KIT-CONVERSION-300,Existing Fence Conversion System Kit for Cats (300 Feet),4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,259.32,169.4,97.96
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),Spring-Loaded Houdini Cat Fence Arm,,48,ARM,,320.91,235,2.85
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),Conversion System Arm Mounting Plate,,48,ARMMOUNTINGPLATE,,320.91,235,1.42
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),"Set Screw 5/16"" - 18",,50,SETSCREW,,320.91,235,0.1
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,320.91,235,0.39
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),Standard Zip Ties - (100),,4,TIELIGHT,,320.91,235,1.01
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),Arm to Wall Strap,,4,STRAPAW,,320.91,235,0.13
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),Existing Fence Conversion System Instructions,,1,INS-CK,,320.91,235,0
+KIT-CONVERSION-400,Existing Fence Conversion System Kit for Cats (400 Feet),4' x 200 Height Poly Fence Roll,,2,FENCE4X200,,320.91,235,53
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Spring-Loaded Houdini Cat Fence Arm,,6,ARM,,95.41,43,2.85
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Conversion System Arm Mounting Plate,,12,ARMMOUNTINGPLATE,,95.41,43,1.42
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),"Set Screw 5/16"" - 18",,13,SETSCREW,,95.41,43,0.1
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,95.41,43,0.39
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Standard Zip Ties - (100),,1,TIELIGHT,,95.41,43,1.01
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Arm to Wall Strap,,4,STRAPAW,,95.41,43,0.13
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),6' Height x 50 Poly Fence Roll,,1,FENCE6X50,,95.41,43,35.87
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Conv Sys Shorter Fences Arm Extension Tube,,6,CONVARMEXT,,95.41,43,3.4
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Double-Bubble Single Use Epoxy Pack+ Stir Stick,,2,EPOXY-SINGLEUSE,,95.41,43,0.89
+KIT-SHORTCONV-50,Existing Fence Conversion System for Shorter Fences Kit (50 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,95.41,43,0
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"86"" Post",,13,POST86,,335.42,193.2,5.76
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"71"" x 1.375"" post",,2,71POST138,,335.42,193.2,5.75
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"83"" x 1.375"" post",,6,83POST138,,335.42,193.2,5.75
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"73"" x 1.375"" Post",,1,73POST138,,335.42,193.2,5.75
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"36"" x 1.375"" Post",,2,36POST138,,335.42,193.2,3.82
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Gate Corner for 1 3/8"" Gate Frame",,4,GATECORNER,,335.42,193.2,2.1
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,335.42,193.2,2.2
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Sleeve for 1 3/8"" Posts",,6,SLEEVE138,,335.42,193.2,3.28
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Set Screw 5/16"" - 18",,57,SETSCREW,,335.42,193.2,0.1
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,Hex Wrench for Set Screws,,1,HEXWRENCH,,335.42,193.2,0.39
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"3-Way Connector for 1 3/8"" Post",,4,3WAYCONNECTOR,,335.42,193.2,3.75
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"4-Way Connector for 1 3/8"" Post",,2,4WAYCONNECTOR,,335.42,193.2,4.25
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,In-Line Clamp,,2,ILC138B,,335.42,193.2,2.15
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,335.42,193.2,42
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,4ftx50ft Welded Wire 1in x 1in,,1,WELDEDWIRE4X50,,335.42,193.2,37.43
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,335.42,193.2,4.04
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,Standard Zip Ties - (100),,2,TIELIGHT,,335.42,193.2,1.01
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Galvanized 12"" Ground Stakes (Box of 30)",,2,STAKES,,335.42,193.2,11.7
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,Corner Clamp,,4,CC138B,,335.42,193.2,2.2
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,Penthouse With Sleeves Instructions,,1,INS-PENWS,,335.42,193.2,0
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"Galvanized and Black powdercoated heavy duty Kennel Latch for 1-3/8"" to 1-3/8"" posts. #5287",,1,KENNELLATCH138,,335.42,193.2,4.42
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,"2 pack of 3/8"" end rail clamps",,1,ERC38PACK2,,335.42,193.2,2.14
+PURRFECTPENTHOUSE-WGS6.5FT,Purrfect Penthouse Full Enclosure with Ground Sleeves,Set of 2 male and 2 female hinges for 1 3/8 posts,,1,HINGESET138,,335.42,193.2,4.65
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"86"" Post",,14,POST86,,312.32,195.4,5.76
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"36"" x 1.375"" Post",,2,36POST138,,312.32,195.4,3.82
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"Gate Corner for 1 3/8"" Gate Frame",,4,GATECORNER,,312.32,195.4,2.1
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"Set Screw 5/16"" - 18",,97,SETSCREW,,312.32,195.4,0.1
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,Hex Wrench for Set Screws,,1,HEXWRENCH,,312.32,195.4,0.39
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"3-Way Connector for 1 3/8"" Post",,8,3WAYCONNECTOR,,312.32,195.4,3.75
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"4-Way Connector for 1 3/8"" Post",,4,4WAYCONNECTOR,,312.32,195.4,4.25
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,312.32,195.4,42
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,4ftx50ft Welded Wire 1in x 1in,,1,WELDEDWIRE4X50,,312.32,195.4,37.43
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,312.32,195.4,4.04
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,Standard Zip Ties - (100),,4,TIELIGHT,,312.32,195.4,1.01
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,Penthouse NO Sleeves Instructions,,1,INS-PENNOSLEEVE,,312.32,195.4,0
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"78"" x 1.375"" post",,2,78POST138,,312.32,195.4,5.75
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"79.5"" x 1.375"" Post",,1,79.5POST138,,312.32,195.4,5.75
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"81"" x 1.375"" post",,6,81POST138,,312.32,195.4,5.75
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"Galvanized and Black powdercoated heavy duty Kennel Latch for 1-3/8"" to 1-3/8"" posts. #5287",,1,KENNELLATCH138,,312.32,195.4,4.42
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,"2 pack of 3/8"" end rail clamps",,1,ERC38PACK2,,312.32,195.4,2.14
+PURRFECTPENTHOUSE-NS7.5FT,Purrfect Penthouse Full Enclosure Fittings Only,Set of 2 male and 2 female hinges for 1 3/8 posts,,1,HINGESET138,,312.32,195.4,4.65
+DB24X100,"Wide Gap Fence Dog Barrier Kit - 24"" x 100 Feet",Heavy Duty Zip Ties (100),,1,TIEHEAVY,,29.04,42.8,4.04
+DB24X100,"Wide Gap Fence Dog Barrier Kit - 24"" x 100 Feet",2'x100' Welded Wire,,1,WELDEDWIRE2X100,,29.04,42.8,25
+DB24X100,"Wide Gap Fence Dog Barrier Kit - 24"" x 100 Feet",INS-WIDEGAP,,1,INS-WIDEGAP,,29.04,42.8,0
+DB42X100,"Wide Gap Fence Dog Barrier Kit - 42"" x 100 Feet",Heavy Duty Zip Ties (100),,1,TIEHEAVY,,46.04,0.8,4.04
+DB42X100,"Wide Gap Fence Dog Barrier Kit - 42"" x 100 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,46.04,0.8,42
+DB42X100,"Wide Gap Fence Dog Barrier Kit - 42"" x 100 Feet",INS-WIDEGAP,,1,INS-WIDEGAP,,46.04,0.8,0
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,4' x 100 Height Poly Fence Roll,,1,FENCE4X100,,147.67,92.4,28.1
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,147.67,92.4,4.04
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,147.67,92.4,0
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,Curved Dog Arm Top Section with swage,,12,CDOGARMTOP,,147.67,92.4,5.5
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,Dog Arm botom section with mounting brackets and set screw hole,,12,DOGARMBASE,,147.67,92.4,3.65
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,"Set Screw 5/16"" - 18",,13,SETSCREW,,147.67,92.4,0.1
+KITDOG100PL,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Poly Fence,Hex Wrench for Set Screws,,1,HEXWRENCH,,147.67,92.4,0.39
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,161.57,76.4,4.04
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,161.57,76.4,0
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,161.57,76.4,42
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,12,CDOGARMTOP,,161.57,76.4,5.5
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,12,DOGARMBASE,,161.57,76.4,3.65
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,13,SETSCREW,,161.57,76.4,0.1
+KITDOG100WW,Houdini-Proof 100' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,161.57,76.4,0.39
+KITDOGSTR100WW,Standard Dog-Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,1,TIEHEAVY,,109.04,48.8,4.04
+KITDOGSTR100WW,Standard Dog-Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,109.04,48.8,42
+KITDOGSTR100WW,Standard Dog-Proofer Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,12,DOG-STR-ARM,,109.04,48.8,5.25
+KITDOGSTR100WW,Standard Dog-Proofer Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,109.04,48.8,0
+KITDOGSTR100PL,Standard Dog-Proofer Fence Extension System Kit - Poly Fence,Heavy Duty Zip Ties (100),,1,TIEHEAVY,,95.14,64.8,4.04
+KITDOGSTR100PL,Standard Dog-Proofer Fence Extension System Kit - Poly Fence,Standard Dog-Proofer Fence Extension Arm,,12,DOG-STR-ARM,,95.14,64.8,5.25
+KITDOGSTR100PL,Standard Dog-Proofer Fence Extension System Kit - Poly Fence,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,95.14,64.8,0
+KITDOGSTR100PL,Standard Dog-Proofer Fence Extension System Kit - Poly Fence,4' x 100 Height Poly Fence Roll,,1,FENCE4X100,,95.14,64.8,28.1
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,Bag of 33 Set screws for small penthouse,,1,516SSWAH-33,,177.73,3,0.9
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,T-Clamp for .922 Tube,,2,CLM-H03,,177.73,3,1.5
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,Female Hinge part for .922 tube,,2,HNG-F0,,177.73,3,1
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,Male Hinge for .922 tube,,2,HNG-M1,,177.73,3,1.25
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,Gate Corner for .922 tube with welded nut,,4,TUB-H02,,177.73,3,2.7
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,"3 way fitting for .922"" tube with welded nut",,8,TUB-H2V1,,177.73,3,3.95
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,"Set of tubes for small penthouse (includes 13pc - 84"", 1pc - 80"" with hole, 1pc - 80"" no hole, 2pc - 28"")",,1,TUBESET922PENTHOUSE,,177.73,3,90.98
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,Standard Zip Ties - (100),,5,TIELIGHT,,177.73,3,1.01
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,"Black Vinyl Coated Welded Wire 1mm - 1.4mm (1"" x 1"" square) 44"" x 75' long",,1,WELDEDWIRE44X75-1X1,,177.73,3,27.3
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,"Gate Latch for .0922  tube with 1/4"" bolt set",,1,095GF-NGL,,177.73,3,3.6
+LILPENTHOUSE,7' x 7' x 7' Penthouse with welded wire and gate,Instructions for Purrfect Playhouse,,1,INS-PURRFECT-PLAYHOUSE,,177.73,3,0
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Spring-Loaded Houdini Cat Fence Arm,,5,ARM,,147.69,82.5,2.85
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"Set Screw 5/16"" - 18",,11,SETSCREW,,147.69,82.5,0.1
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,147.69,82.5,0.39
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,5,ARMMOUNTING138,,147.69,82.5,1.7
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"86"" Post",,5,POST86,,147.69,82.5,5.76
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Post Cap for 1 3/8in Post,,5,POSTCAP,,147.69,82.5,0.15
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"Sleeve for 1 3/8"" Posts",,5,SLEEVE138,,147.69,82.5,3.28
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),7.5' Height x 50 Poly Fence Roll,,1,FENCE7.5X50,,147.69,82.5,42.28
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,147.69,82.5,2.2
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,147.69,82.5,1.25
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Self-Drilling and Tapping Screw,,11,SELFTAP,,147.69,82.5,0.05
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Arm to Wall Strap,,2,STRAPAW,,147.69,82.5,0.13
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Post to Wall Strap,,4,STRAPPW,,147.69,82.5,0.15
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Heavy Duty Zip Ties (100),,1,TIEHEAVY,,147.69,82.5,4.04
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Standard Zip Ties - (100),,2,TIELIGHT,,147.69,82.5,1.01
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,1,STAKES,,147.69,82.5,11.7
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),Freestanding Kit Instructions,,1,INS-FS,,147.69,82.5,0
+KIT-FREESTANDING-50,Free-Standing Cat Fence Enclosure System (50 Feet),"2'x50"" Welded Wire",,1,WELDEDWIRE24X50-1.7X1.7,,147.69,82.5,12.6
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),"86"" Post",,40,POST86,,1148.38,860,5.76
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Post Cap for 1 3/8in Post,,40,POSTCAP,,1148.38,860,0.15
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Spring-Loaded Houdini Cat Fence Arm,,40,ARM,,1148.38,860,2.85
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,40,ARMMOUNTING138,,1148.38,860,1.7
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),"Sleeve for 1 3/8"" Posts",,40,SLEEVE138,,1148.38,860,3.28
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),7.5' Height x 100 Poly Fence Roll,,2,FENCE7.5X100,,1148.38,860,66.66
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),2'x100' Welded Wire,,5,WELDEDWIRE2X100,,1148.38,860,25
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,1148.38,860,2.2
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,1148.38,860,1.25
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),"Set Screw 5/16"" - 18",,82,SETSCREW,,1148.38,860,0.1
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Self-Drilling and Tapping Screw,,82,SELFTAP,,1148.38,860,0.05
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,1148.38,860,0.39
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Arm to Wall Strap,,4,STRAPAW,,1148.38,860,0.13
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Post to Wall Strap,,8,STRAPPW,,1148.38,860,0.15
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Heavy Duty Zip Ties (100),,8,TIEHEAVY,,1148.38,860,4.04
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Standard Zip Ties - (100),,20,TIELIGHT,,1148.38,860,1.01
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,10,STAKES,,1148.38,860,11.7
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),Freestanding Kit Instructions,,1,INS-FS,,1148.38,860,0
+KIT-FREESTANDING-500,Free-Standing Cat Fence Enclosure System (500 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,1,FENCE7.5X330,,1148.38,860,153.08
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,1,TIEHEAVY,,82.92,38.4,4.04
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,82.92,38.4,22.89
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,82.92,38.4,0
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,6,CDOGARMTOP,,82.92,38.4,5.5
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,6,DOGARMBASE,,82.92,38.4,3.65
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,7,SETSCREW,,82.92,38.4,0.1
+KITDOG50PL,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,82.92,38.4,0.39
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,1,TIEHEAVY,,81.03,38.4,4.04
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,"42"" x 50' Welded Wire",,1,WELDEDWIRE42X50-1.7X1.7,,81.03,38.4,21
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,81.03,38.4,0
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,6,CDOGARMTOP,,81.03,38.4,5.5
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,6,DOGARMBASE,,81.03,38.4,3.65
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,7,SETSCREW,,81.03,38.4,0.1
+KITDOG50WW,Houdini-Proof 50' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,81.03,38.4,0.39
+KITDOGSTR50WW,Standard Dog-Proofer 50' Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,1,TIEHEAVY,,56.54,24.8,4.04
+KITDOGSTR50WW,Standard Dog-Proofer 50' Fence Extension System Kit - Welded Wire,"42"" x 50' Welded Wire",,1,WELDEDWIRE42X50-1.7X1.7,,56.54,24.8,21
+KITDOGSTR50WW,Standard Dog-Proofer 50' Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,6,DOG-STR-ARM,,56.54,24.8,5.25
+KITDOGSTR50WW,Standard Dog-Proofer 50' Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,56.54,24.8,0
+KITDOGSTR50PL,Standard Dog-Proofer 50' Fence Extension System Kit - Poly Fence,Heavy Duty Zip Ties (100),,1,TIEHEAVY,,58.43,24.8,4.04
+KITDOGSTR50PL,Standard Dog-Proofer 50' Fence Extension System Kit - Poly Fence,Standard Dog-Proofer Fence Extension Arm,,6,DOG-STR-ARM,,58.43,24.8,5.25
+KITDOGSTR50PL,Standard Dog-Proofer 50' Fence Extension System Kit - Poly Fence,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,58.43,24.8,0
+KITDOGSTR50PL,Standard Dog-Proofer 50' Fence Extension System Kit - Poly Fence,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,58.43,24.8,22.89
+KITDOGDIG100,Dig Proofer 100 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,2,STAKES,,48.4,56,11.7
+KITDOGDIG100,Dig Proofer 100 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,1,WELDEDWIRE2X100,,48.4,56,25
+KITDOGDIG100,Dig Proofer 100 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,48.4,56,0
+KITDOGDIG50,Dig Proofer 50 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,1,STAKES,,24.3,7,11.7
+KITDOGDIG50,Dig Proofer 50 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,24.3,7,0
+KITDOGDIG50,Dig Proofer 50 Feet Kit,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,24.3,7,12.6
+KITDOGDIG50XL,Dig Proofer XL 50 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,2,STAKES,,44.4,14,11.7
+KITDOGDIG50XL,Dig Proofer XL 50 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,44.4,14,0
+KITDOGDIG50XL,Dig Proofer XL 50 Feet Kit,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,44.4,14,21
+KITDOGDIG100XL,Dig Proofer XL 100 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,4,STAKES,,88.8,28,11.7
+KITDOGDIG100XL,Dig Proofer XL 100 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,88.8,28,0
+KITDOGDIG100XL,Dig Proofer XL 100 Feet Kit,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,88.8,28,42
+SS-HOGRINGER-RINGS,SS-HOGRINGER-RINGS,Hog Ringer (Tool Only),,1,HOGRINGER,,38.52,1,29.51
+SS-HOGRINGER-RINGS,SS-HOGRINGER-RINGS,stainless,,1,STAINLESSRINGS,,38.52,1,9.01
+STAPLERKIT,Heavy Chrome Stapler with 1000 Staples,Galvanized Staples Refill for Staple Gun by Citadel Tools,,1,STAPLES,,6.12,0,0.4
+STAPLERKIT,Heavy Chrome Stapler with 1000 Staples,sta,,1,STCR14,,6.12,0,5.72
+TOOLCONVKIT,Conversion Fence System Installation Tool Kit,Zip Tie Puller / Cutter,,1,TIETOOL,,8.14,0.6,5.6
+TOOLCONVKIT,Conversion Fence System Installation Tool Kit,Polypropylene String with Dispenser - 150 ft,,1,STRING150,,8.14,0.6,0.52
+TOOLCONVKIT,Conversion Fence System Installation Tool Kit,Multi-Purpose Snip - Heat Treated Steel with PVC Grips by Citadel Tools,,1,SNIPSK5,,8.14,0.6,2.02
+TOOLWOODKIT,Wood Fence Installation Kit for the Existing Fence Conversion System,Zip Tie Puller / Cutter,,1,TIETOOL,,14.26,0.6,5.6
+TOOLWOODKIT,Wood Fence Installation Kit for the Existing Fence Conversion System,Polypropylene String with Dispenser - 150 ft,,1,STRING150,,14.26,0.6,0.52
+TOOLWOODKIT,Wood Fence Installation Kit for the Existing Fence Conversion System,Multi-Purpose Snip - Heat Treated Steel with PVC Grips by Citadel Tools,,1,SNIPSK5,,14.26,0.6,2.02
+TOOLWOODKIT,Wood Fence Installation Kit for the Existing Fence Conversion System,Heavy Chrome Stapler - Accepts up to 14mm Staples with Tension Nob by Citadel Tools,,1,STCR14,,14.26,0.6,5.72
+TOOLWOODKIT,Wood Fence Installation Kit for the Existing Fence Conversion System,Galvanized Staples Refill for Staple Gun by Citadel Tools,,1,STAPLES,,14.26,0.6,0.4
+TOOLFSGKIT,Freestanding Fencing System Installation Tool Kit,Zip Tie Puller / Cutter,,1,TIETOOL,,8.58,0.6,5.6
+TOOLFSGKIT,Freestanding Fencing System Installation Tool Kit,Polypropylene String with Dispenser - 150 ft,,1,STRING150,,8.58,0.6,0.52
+TOOLFSGKIT,Freestanding Fencing System Installation Tool Kit,Multi-Purpose Snip - Heat Treated Steel with PVC Grips by Citadel Tools,,1,SNIPSK5,,8.58,0.6,2.02
+TOOLFSGKIT,Freestanding Fencing System Installation Tool Kit,Orange Torpedo Level with Magnet Strip by Citadel Tools,,1,LEVEL,,8.58,0.6,0.44
+TOOLPREMFSGKIT,Premium Freestanding Fencing System Installation Tool Kit,Zip Tie Puller / Cutter,,1,TIETOOL,,42.26,4.6,5.6
+TOOLPREMFSGKIT,Premium Freestanding Fencing System Installation Tool Kit,Polypropylene String with Dispenser - 150 ft,,1,STRING150,,42.26,4.6,0.52
+TOOLPREMFSGKIT,Premium Freestanding Fencing System Installation Tool Kit,Multi-Purpose Snip - Heat Treated Steel with PVC Grips by Citadel Tools,,1,SNIPSK5,,42.26,4.6,2.02
+TOOLPREMFSGKIT,Premium Freestanding Fencing System Installation Tool Kit,Orange Torpedo Level with Magnet Strip by Citadel Tools,,1,LEVEL,,42.26,4.6,0.44
+TOOLPREMFSGKIT,Premium Freestanding Fencing System Installation Tool Kit,Hog Ringer (Tool Only),,1,HOGRINGER,,42.26,4.6,29.51
+TOOLPREMFSGKIT,Premium Freestanding Fencing System Installation Tool Kit,"Hog Rings (2,500 count)",,1,HOGRINGS2500,,42.26,4.6,4.17
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"1 5/8"" Heavy Duty Post 90"" Black",,1,POST158,,20.68,19.8,10.87
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"Sleeve for 1 5/8"" Heavy Duty Posts",,1,158SLEEVE,,20.68,19.8,4.3
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),Spring-Loaded Houdini Cat Fence Arm,,1,ARM,,20.68,19.8,2.85
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"Free-Standing System Arm Mounting for 1 5/8"" HD Post",,1,ARMMOUNTING158,,20.68,19.8,1.88
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),"Set Screw 5/16"" - 18",,2,SETSCREW,,20.68,19.8,0.1
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),Self-Drilling and Tapping Screw,,2,SELFTAP,,20.68,19.8,0.05
+HDKIT-1POST,SINGLE Heavy Duty (1 5/8) Post Kit Add on to Freestanding Fencing System (NO DRIVE CAP),Post Cap for 1 5/8in Post black,,1,158POSTCAP,,20.68,19.8,0.48
+SHORTARM-ASSEMBLY,2-Pack Arm Add for Shorter Fence Conversion System,Spring-Loaded Houdini Cat Fence Arm,,2,ARM,,19.96,14.2,2.85
+SHORTARM-ASSEMBLY,2-Pack Arm Add for Shorter Fence Conversion System,Conversion System Arm Mounting Plate,,4,ARMMOUNTINGPLATE,,19.96,14.2,1.42
+SHORTARM-ASSEMBLY,2-Pack Arm Add for Shorter Fence Conversion System,"Set Screw 5/16"" - 18",,5,SETSCREW,,19.96,14.2,0.1
+SHORTARM-ASSEMBLY,2-Pack Arm Add for Shorter Fence Conversion System,hex,,1,HEXWRENCH,,19.96,14.2,0.39
+SHORTARM-ASSEMBLY,2-Pack Arm Add for Shorter Fence Conversion System,Double-Bubble Single Use Epoxy Pack+ Stir Stick,,1,EPOXY-SINGLEUSE,,19.96,14.2,0.89
+SHORTARM-ASSEMBLY,2-Pack Arm Add for Shorter Fence Conversion System,Conv Sys Shorter Fences Arm Extension Tube,,2,CONVARMEXT,,19.96,14.2,3.4
+DOG ARM,Houdini-Proof Dog-Proofer Fence Extension Arm,Curved Dog Arm Top Section with swage,,1,CDOGARMTOP,,9.25,6.2,5.5
+DOG ARM,Houdini-Proof Dog-Proofer Fence Extension Arm,Dog Arm botom section with mounting brackets and set screw hole,,1,DOGARMBASE,,9.25,6.2,3.65
+DOG ARM,Houdini-Proof Dog-Proofer Fence Extension Arm,"Set Screw 5/16"" - 18",,1,SETSCREW,,9.25,6.2,0.1
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Spring-Loaded Houdini Cat Fence Arm,,18,ARM,,267.68,143.4,2.85
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Conv Sys Shorter Fences Arm Extension Tube,,18,CONVARMEXT,,267.68,143.4,3.4
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Conversion System Arm Mounting Plate,,36,ARMMOUNTINGPLATE,,267.68,143.4,1.42
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),"Set Screw 5/16"" - 18",,37,SETSCREW,,267.68,143.4,0.1
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),6' Height x 100 Poly Fence Roll,,1,FENCE6X100,,267.68,143.4,56.1
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Standard Zip Ties - (100),,3,TIELIGHT,,267.68,143.4,1.01
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Arm to Wall Strap,,4,STRAPAW,,267.68,143.4,0.13
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,267.68,143.4,0.39
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Double-Bubble Single Use Epoxy Pack+ Stir Stick,,5,EPOXY-SINGLEUSE,,267.68,143.4,0.89
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,267.68,143.4,0
+KIT-SHORTCONV-150,Existing Fence Conversion System for Shorter Fences Kit (150 Feet),6' Height x 50 Poly Fence Roll,,1,FENCE6X50,,267.68,143.4,35.87
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Spring-Loaded Houdini Cat Fence Arm,,30,ARM,,436.58,242.4,2.85
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Conv Sys Shorter Fences Arm Extension Tube,,30,CONVARMEXT,,436.58,242.4,3.4
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Conversion System Arm Mounting Plate,,60,ARMMOUNTINGPLATE,,436.58,242.4,1.42
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),"Set Screw 5/16"" - 18",,62,SETSCREW,,436.58,242.4,0.1
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),6' Height x 100 Poly Fence Roll,,2,FENCE6X100,,436.58,242.4,56.1
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Standard Zip Ties - (100),,5,TIELIGHT,,436.58,242.4,1.01
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Arm to Wall Strap,,4,STRAPAW,,436.58,242.4,0.13
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,436.58,242.4,0.39
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,436.58,242.4,0
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),6' Height x 50 Poly Fence Roll,,1,FENCE6X50,,436.58,242.4,35.87
+KIT-SHORTCONV-250,Existing Fence Conversion System for Shorter Fences Kit (250 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,1,EPOXY-SYRINGE,,436.58,242.4,3.65
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Spring-Loaded Houdini Cat Fence Arm,,42,ARM,,579.62,291.2,2.85
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Conv Sys Shorter Fences Arm Extension Tube,,42,CONVARMEXT,,579.62,291.2,3.4
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Conversion System Arm Mounting Plate,,84,ARMMOUNTINGPLATE,,579.62,291.2,1.42
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),"Set Screw 5/16"" - 18",,86,SETSCREW,,579.62,291.2,0.1
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Standard Zip Ties - (100),,7,TIELIGHT,,579.62,291.2,1.01
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Arm to Wall Strap,,4,STRAPAW,,579.62,291.2,0.13
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,579.62,291.2,0.39
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,579.62,291.2,0
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),6' Height x 50 Poly Fence Roll,,1,FENCE6X50,,579.62,291.2,35.87
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,1,EPOXY-SYRINGE,,579.62,291.2,3.65
+KIT-SHORTCONV-350,Existing Fence Conversion System for Shorter Fences Kit (350 Feet),6' Height x 330 Poly Fence Roll,,1,FENCE6X330,,579.62,291.2,141.74
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Spring-Loaded Houdini Cat Fence Arm,,54,ARM,,752.87,391,2.85
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Conv Sys Shorter Fences Arm Extension Tube,,54,CONVARMEXT,,752.87,391,3.4
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Conversion System Arm Mounting Plate,,108,ARMMOUNTINGPLATE,,752.87,391,1.42
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),"Set Screw 5/16"" - 18",,110,SETSCREW,,752.87,391,0.1
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),6' Height x 100 Poly Fence Roll,,1,FENCE6X100,,752.87,391,56.1
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Standard Zip Ties - (100),,9,TIELIGHT,,752.87,391,1.01
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Arm to Wall Strap,,4,STRAPAW,,752.87,391,0.13
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,752.87,391,0.39
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,752.87,391,0
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),6' Height x 50 Poly Fence Roll,,1,FENCE6X50,,752.87,391,35.87
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),6' Height x 330 Poly Fence Roll,,1,FENCE6X330,,752.87,391,141.74
+KIT-SHORTCONV-450,Existing Fence Conversion System for Shorter Fences Kit (450 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,2,EPOXY-SYRINGE,,752.87,391,3.65
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Spring-Loaded Houdini Cat Fence Arm,,60,ARM,,829.95,449.6,2.85
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Conv Sys Shorter Fences Arm Extension Tube,,60,CONVARMEXT,,829.95,449.6,3.4
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Conversion System Arm Mounting Plate,,120,ARMMOUNTINGPLATE,,829.95,449.6,1.42
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),"Set Screw 5/16"" - 18",,123,SETSCREW,,829.95,449.6,0.1
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Standard Zip Ties - (100),,10,TIELIGHT,,829.95,449.6,1.01
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Arm to Wall Strap,,4,STRAPAW,,829.95,449.6,0.13
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,829.95,449.6,0.39
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,829.95,449.6,0
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),6' Height x 100 Poly Fence Roll,,2,FENCE6X100,,829.95,449.6,56.1
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,2,EPOXY-SYRINGE,,829.95,449.6,3.65
+KIT-SHORTCONV-500,Existing Fence Conversion System for Shorter Fences Kit (500 Feet),6' Height x 330 Poly Fence Roll,,1,FENCE6X330,,829.95,449.6,141.74
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Spring-Loaded Houdini Cat Fence Arm,,72,ARM,,972.99,498.4,2.85
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Conv Sys Shorter Fences Arm Extension Tube,,72,CONVARMEXT,,972.99,498.4,3.4
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Conversion System Arm Mounting Plate,,144,ARMMOUNTINGPLATE,,972.99,498.4,1.42
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),"Set Screw 5/16"" - 18",,147,SETSCREW,,972.99,498.4,0.1
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Standard Zip Ties - (100),,12,TIELIGHT,,972.99,498.4,1.01
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Arm to Wall Strap,,4,STRAPAW,,972.99,498.4,0.13
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,972.99,498.4,0.39
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,972.99,498.4,0
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),Epoxy Syringe for 4+ Conv Sys for Shorter Fences,,2,EPOXY-SYRINGE,,972.99,498.4,3.65
+KIT-SHORTCONV-600,Existing Fence Conversion System for Shorter Fences Kit (600 Feet),6' Height x 330 Poly Fence Roll,,2,FENCE6X330,,972.99,498.4,141.74
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Spring-Loaded Houdini Cat Fence Arm,,66,ARM,,955.7,545.8,2.85
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Conv Sys Shorter Fences Arm Extension Tube,,66,CONVARMEXT,,955.7,545.8,3.4
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Conversion System Arm Mounting Plate,,132,ARMMOUNTINGPLATE,,955.7,545.8,1.42
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),"Set Screw 5/16"" - 18",,135,SETSCREW,,955.7,545.8,0.1
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),6' Height x 100 Poly Fence Roll,,5,FENCE6X100,,955.7,545.8,56.1
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Standard Zip Ties - (100),,11,TIELIGHT,,955.7,545.8,1.01
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Arm to Wall Strap,,8,STRAPAW,,955.7,545.8,0.13
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,955.7,545.8,0.39
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Double-Bubble Single Use Epoxy Pack+ Stir Stick,,15,EPOXY-SINGLEUSE,,955.7,545.8,0.89
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),Conversion Kit for Shorter Fences Instructions,,1,INS-CKSHORT,,955.7,545.8,0
+KIT-SHORTCONV-550,Existing Fence Conversion System for Shorter Fences Kit (550 Feet),6' Height x 50 Poly Fence Roll,,1,FENCE6X50,,955.7,545.8,35.87
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,Spring-Loaded Houdini Cat Fence Arm,,18,ARM,,132.42,88.2,2.85
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,Conversion System Arm Mounting Plate,,18,ARMMOUNTINGPLATE,,132.42,88.2,1.42
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,"Set Screw 5/16"" - 18",,19,SETSCREW,,132.42,88.2,0.1
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,132.42,88.2,0.39
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,Existing Fence Conversion System Instructions,,1,INS-CK,,132.42,88.2,0
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,Standard Zip Ties - (100),,2,TIELIGHT,,132.42,88.2,1.01
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,Arm to Wall Strap,,2,STRAPAW,,132.42,88.2,0.13
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,4' x 100 Height Poly Fence Roll,,1,FENCE4X100,,132.42,88.2,28.1
+KIT-CONVERSION-150,Kit for adapting Existing Fences - 150ft,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,132.42,88.2,22.89
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,Spring-Loaded Houdini Cat Fence Arm,,30,ARM,,211.13,142.2,2.85
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,Conversion System Arm Mounting Plate,,30,ARMMOUNTINGPLATE,,211.13,142.2,1.42
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,"Set Screw 5/16"" - 18",,32,SETSCREW,,211.13,142.2,0.1
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,211.13,142.2,0.39
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,Existing Fence Conversion System Instructions,,1,INS-CK,,211.13,142.2,0
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,Standard Zip Ties - (100),,3,TIELIGHT,,211.13,142.2,1.01
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,Arm to Wall Strap,,4,STRAPAW,,211.13,142.2,0.13
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,211.13,142.2,22.89
+KIT-CONVERSION-250,Kit for adapting Existing Fences - 250ft,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,211.13,142.2,53
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,Spring-Loaded Houdini Cat Fence Arm,,42,ARM,,309.54,193.6,2.85
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,Conversion System Arm Mounting Plate,,42,ARMMOUNTINGPLATE,,309.54,193.6,1.42
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,"Set Screw 5/16"" - 18",,44,SETSCREW,,309.54,193.6,0.1
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,309.54,193.6,0.39
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,Existing Fence Conversion System Instructions,,1,INS-CK,,309.54,193.6,0
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,Standard Zip Ties - (100),,4,TIELIGHT,,309.54,193.6,1.01
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,Arm to Wall Strap,,4,STRAPAW,,309.54,193.6,0.13
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,309.54,193.6,22.89
+KIT-CONVERSION-350,Kit for adapting Existing Fences - 350ft,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,309.54,193.6,97.96
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,Spring-Loaded Houdini Cat Fence Arm,,54,ARM,,371.03,259,2.85
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,Conversion System Arm Mounting Plate,,54,ARMMOUNTINGPLATE,,371.03,259,1.42
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,"Set Screw 5/16"" - 18",,56,SETSCREW,,371.03,259,0.1
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,371.03,259,0.39
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,Existing Fence Conversion System Instructions,,1,INS-CK,,371.03,259,0
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,Standard Zip Ties - (100),,5,TIELIGHT,,371.03,259,1.01
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,Arm to Wall Strap,,4,STRAPAW,,371.03,259,0.13
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,371.03,259,22.89
+KIT-CONVERSION-450,Kit for adapting Existing Fences - 450ft,4' x 200 Height Poly Fence Roll,,2,FENCE4X200,,371.03,259,53
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,Spring-Loaded Houdini Cat Fence Arm,,66,ARM,,469.44,310.4,2.85
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,Conversion System Arm Mounting Plate,,66,ARMMOUNTINGPLATE,,469.44,310.4,1.42
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,"Set Screw 5/16"" - 18",,68,SETSCREW,,469.44,310.4,0.1
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,469.44,310.4,0.39
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,Existing Fence Conversion System Instructions,,1,INS-CK,,469.44,310.4,0
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,Standard Zip Ties - (100),,6,TIELIGHT,,469.44,310.4,1.01
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,Arm to Wall Strap,,4,STRAPAW,,469.44,310.4,0.13
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,469.44,310.4,22.89
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,469.44,310.4,53
+KIT-CONVERSION-550,Kit for adapting Existing Fences - 550ft,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,469.44,310.4,97.96
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,Spring-Loaded Houdini Cat Fence Arm,,60,ARM,,419.32,286.4,2.85
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,Conversion System Arm Mounting Plate,,60,ARMMOUNTINGPLATE,,419.32,286.4,1.42
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,"Set Screw 5/16"" - 18",,62,SETSCREW,,419.32,286.4,0.1
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,419.32,286.4,0.39
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,Existing Fence Conversion System Instructions,,1,INS-CK,,419.32,286.4,0
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,Standard Zip Ties - (100),,5,TIELIGHT,,419.32,286.4,1.01
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,Arm to Wall Strap,,4,STRAPAW,,419.32,286.4,0.13
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,419.32,286.4,53
+KIT-CONVERSION-500,Kit for adapting Existing Fences - 500ft,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,419.32,286.4,97.96
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,Spring-Loaded Houdini Cat Fence Arm,,72,ARM,,517.73,337.8,2.85
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,Conversion System Arm Mounting Plate,,72,ARMMOUNTINGPLATE,,517.73,337.8,1.42
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,"Set Screw 5/16"" - 18",,74,SETSCREW,,517.73,337.8,0.1
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,Hex Wrench for Set Screws,,1,HEXWRENCH,,517.73,337.8,0.39
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,Existing Fence Conversion System Instructions,,1,INS-CK,,517.73,337.8,0
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,Standard Zip Ties - (100),,6,TIELIGHT,,517.73,337.8,1.01
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,Arm to Wall Strap,,4,STRAPAW,,517.73,337.8,0.13
+KIT-CONVERSION-600,Kit for adapting Existing Fences - 600ft,4' x 330 Height Poly Fence Roll,,2,FENCE4X330,,517.73,337.8,97.96
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,18,CDOGARMTOP,,226.06,129.6,5.5
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,18,DOGARMBASE,,226.06,129.6,3.65
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,19,SETSCREW,,226.06,129.6,0.1
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,226.06,129.6,0.39
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 100 Height Poly Fence Roll,,1,FENCE4X100,,226.06,129.6,28.1
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,226.06,129.6,22.89
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,226.06,129.6,4.04
+KITDOG150PL,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,226.06,129.6,0
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,30,CDOGARMTOP,,374.08,212.4,5.5
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,30,DOGARMBASE,,374.08,212.4,3.65
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,31,SETSCREW,,374.08,212.4,0.1
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,374.08,212.4,0.39
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,374.08,212.4,22.89
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,5,TIEHEAVY,,374.08,212.4,4.04
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,374.08,212.4,0
+KITDOG250PL,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,374.08,212.4,53
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,42,CDOGARMTOP,,538.22,292.6,5.5
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,42,DOGARMBASE,,538.22,292.6,3.65
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,44,SETSCREW,,538.22,292.6,0.1
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,538.22,292.6,0.39
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,538.22,292.6,22.89
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,7,TIEHEAVY,,538.22,292.6,4.04
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,538.22,292.6,0
+KITDOG350PL,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,538.22,292.6,97.96
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,36,CDOGARMTOP,,455.69,254.4,5.5
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,36,DOGARMBASE,,455.69,254.4,3.65
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,37,SETSCREW,,455.69,254.4,0.1
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,455.69,254.4,0.39
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,6,TIEHEAVY,,455.69,254.4,4.04
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,455.69,254.4,0
+KITDOG300PL,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,455.69,254.4,97.96
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,24,CDOGARMTOP,,291.65,174.4,5.5
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,24,DOGARMBASE,,291.65,174.4,3.65
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,25,SETSCREW,,291.65,174.4,0.1
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,291.65,174.4,0.39
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,4,TIEHEAVY,,291.65,174.4,4.04
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,291.65,174.4,0
+KITDOG200PL,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,291.65,174.4,53
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Arm Top Section with swage,,48,CDOGARMTOP,,582.91,348.6,5.5
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,Dog Arm botom section with mounting brackets and set screw hole,,48,DOGARMBASE,,582.91,348.6,3.65
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,"Set Screw 5/16"" - 18",,50,SETSCREW,,582.91,348.6,0.1
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,Hex Wrench for Set Screws,,1,HEXWRENCH,,582.91,348.6,0.39
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,Heavy Duty Zip Ties (100),,8,TIEHEAVY,,582.91,348.6,4.04
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,582.91,348.6,0
+KITDOG400PL,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Poly Mesh,4' x 200 Height Poly Fence Roll,,2,FENCE4X200,,582.91,348.6,53
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,18,CDOGARMTOP,,242.11,114.4,5.5
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,18,DOGARMBASE,,242.11,114.4,3.65
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,19,SETSCREW,,242.11,114.4,0.1
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,242.11,114.4,0.39
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,242.11,114.4,4.04
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,242.11,114.4,0
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,242.11,114.4,42
+KITDOG150WW,Houdini-Proof 150' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,242.11,114.4,21
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,30,CDOGARMTOP,,403.19,190.4,5.5
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,30,DOGARMBASE,,403.19,190.4,3.65
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,31,SETSCREW,,403.19,190.4,0.1
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,403.19,190.4,0.39
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,5,TIEHEAVY,,403.19,190.4,4.04
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,403.19,190.4,0
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,403.19,190.4,42
+KITDOG250WW,Houdini-Proof 250' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,403.19,190.4,21
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,42,CDOGARMTOP,,564.37,266.6,5.5
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,42,DOGARMBASE,,564.37,266.6,3.65
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,44,SETSCREW,,564.37,266.6,0.1
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,564.37,266.6,0.39
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,7,TIEHEAVY,,564.37,266.6,4.04
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,564.37,266.6,0
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,564.37,266.6,42
+KITDOG350WW,Houdini-Proof 350' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,564.37,266.6,21
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,36,CDOGARMTOP,,483.83,228.6,5.5
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,36,DOGARMBASE,,483.83,228.6,3.65
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,38,SETSCREW,,483.83,228.6,0.1
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,483.83,228.6,0.39
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,6,TIEHEAVY,,483.83,228.6,4.04
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,483.83,228.6,0
+KITDOG300WW,Houdini-Proof 300' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,483.83,228.6,42
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,48,CDOGARMTOP,,644.91,304.6,5.5
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,48,DOGARMBASE,,644.91,304.6,3.65
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,50,SETSCREW,,644.91,304.6,0.1
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,644.91,304.6,0.39
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,8,TIEHEAVY,,644.91,304.6,4.04
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,644.91,304.6,0
+KITDOG400WW,Houdini-Proof 400' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,4,WELDEDWIRE42X100,,644.91,304.6,42
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Arm Top Section with swage,,24,CDOGARMTOP,,322.65,152.4,5.5
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,Dog Arm botom section with mounting brackets and set screw hole,,24,DOGARMBASE,,322.65,152.4,3.65
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,"Set Screw 5/16"" - 18",,25,SETSCREW,,322.65,152.4,0.1
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,Hex Wrench for Set Screws,,1,HEXWRENCH,,322.65,152.4,0.39
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,4,TIEHEAVY,,322.65,152.4,4.04
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,Curved Dog Kit Instructions,,1,INS-DOGCURVED,,322.65,152.4,0
+KITDOG200WW,Houdini-Proof 200' Dog Proofer Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,322.65,152.4,42
+KITDOGSTR200WW,Standard Dog-Proofer 200ft Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,218.08,97.6,4.04
+KITDOGSTR200WW,Standard Dog-Proofer 200ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,218.08,97.6,42
+KITDOGSTR200WW,Standard Dog-Proofer 200ft Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,24,DOG-STR-ARM,,218.08,97.6,5.25
+KITDOGSTR200WW,Standard Dog-Proofer 200ft Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,218.08,97.6,0
+KITDOGSTR300WW,Standard Dog-Proofer 300ft Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,327.12,146.4,4.04
+KITDOGSTR300WW,Standard Dog-Proofer 300ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,327.12,146.4,42
+KITDOGSTR300WW,Standard Dog-Proofer 300ft Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,36,DOG-STR-ARM,,327.12,146.4,5.25
+KITDOGSTR300WW,Standard Dog-Proofer 300ft Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,327.12,146.4,0
+KITDOGSTR400WW,Standard Dog-Proofer 400ft Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,4,TIEHEAVY,,436.16,195.2,4.04
+KITDOGSTR400WW,Standard Dog-Proofer 400ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,4,WELDEDWIRE42X100,,436.16,195.2,42
+KITDOGSTR400WW,Standard Dog-Proofer 400ft Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,48,DOG-STR-ARM,,436.16,195.2,5.25
+KITDOGSTR400WW,Standard Dog-Proofer 400ft Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,436.16,195.2,0
+KITDOGSTR350WW,Standard Dog-Proofer 350ft Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,4,TIEHEAVY,,383.66,171.2,4.04
+KITDOGSTR350WW,Standard Dog-Proofer 350ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,383.66,171.2,42
+KITDOGSTR350WW,Standard Dog-Proofer 350ft Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,42,DOG-STR-ARM,,383.66,171.2,5.25
+KITDOGSTR350WW,Standard Dog-Proofer 350ft Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,383.66,171.2,0
+KITDOGSTR350WW,Standard Dog-Proofer 350ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,383.66,171.2,21
+KITDOGSTR250WW,Standard Dog-Proofer 250ft Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,274.62,122.4,4.04
+KITDOGSTR250WW,Standard Dog-Proofer 250ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,274.62,122.4,42
+KITDOGSTR250WW,Standard Dog-Proofer 250ft Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,30,DOG-STR-ARM,,274.62,122.4,5.25
+KITDOGSTR250WW,Standard Dog-Proofer 250ft Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,274.62,122.4,0
+KITDOGSTR250WW,Standard Dog-Proofer 250ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,274.62,122.4,21
+KITDOGSTR150WW,Standard Dog-Proofer 150ft Fence Extension System Kit - Welded Wire,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,165.58,73.6,4.04
+KITDOGSTR150WW,Standard Dog-Proofer 150ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,165.58,73.6,42
+KITDOGSTR150WW,Standard Dog-Proofer 150ft Fence Extension System Kit - Welded Wire,Standard Dog-Proofer Fence Extension Arm,,18,DOG-STR-ARM,,165.58,73.6,5.25
+KITDOGSTR150WW,Standard Dog-Proofer 150ft Fence Extension System Kit - Welded Wire,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,165.58,73.6,0
+KITDOGSTR150WW,Standard Dog-Proofer 150ft Fence Extension System Kit - Welded Wire,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,165.58,73.6,21
+KITDOGSTR150PL,Standard Dog-Proofer 150ft Fence Extension System Kit - Durable Poly Mesh,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,153.57,89.6,4.04
+KITDOGSTR150PL,Standard Dog-Proofer 150ft Fence Extension System Kit - Durable Poly Mesh,Standard Dog-Proofer Fence Extension Arm,,18,DOG-STR-ARM,,153.57,89.6,5.25
+KITDOGSTR150PL,Standard Dog-Proofer 150ft Fence Extension System Kit - Durable Poly Mesh,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,153.57,89.6,0
+KITDOGSTR150PL,Standard Dog-Proofer 150ft Fence Extension System Kit - Durable Poly Mesh,4' x 100 Height Poly Fence Roll,,1,FENCE4X100,,153.57,89.6,28.1
+KITDOGSTR150PL,Standard Dog-Proofer 150ft Fence Extension System Kit - Durable Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,153.57,89.6,22.89
+KITDOGSTR250PL,Standard Dog-Proofer 250ft Fence Extension System Kit - Durable Poly Mesh,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,245.51,144.4,4.04
+KITDOGSTR250PL,Standard Dog-Proofer 250ft Fence Extension System Kit - Durable Poly Mesh,Standard Dog-Proofer Fence Extension Arm,,30,DOG-STR-ARM,,245.51,144.4,5.25
+KITDOGSTR250PL,Standard Dog-Proofer 250ft Fence Extension System Kit - Durable Poly Mesh,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,245.51,144.4,0
+KITDOGSTR250PL,Standard Dog-Proofer 250ft Fence Extension System Kit - Durable Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,245.51,144.4,22.89
+KITDOGSTR250PL,Standard Dog-Proofer 250ft Fence Extension System Kit - Durable Poly Mesh,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,245.51,144.4,53
+KITDOGSTR350PL,Standard Dog-Proofer 350ft Fence Extension System Kit - Durable Poly Mesh,Heavy Duty Zip Ties (100),,4,TIEHEAVY,,357.51,197.2,4.04
+KITDOGSTR350PL,Standard Dog-Proofer 350ft Fence Extension System Kit - Durable Poly Mesh,Standard Dog-Proofer Fence Extension Arm,,42,DOG-STR-ARM,,357.51,197.2,5.25
+KITDOGSTR350PL,Standard Dog-Proofer 350ft Fence Extension System Kit - Durable Poly Mesh,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,357.51,197.2,0
+KITDOGSTR350PL,Standard Dog-Proofer 350ft Fence Extension System Kit - Durable Poly Mesh,4' x 50 Height Poly Fence Roll,,1,FENCE4X50,,357.51,197.2,22.89
+KITDOGSTR350PL,Standard Dog-Proofer 350ft Fence Extension System Kit - Durable Poly Mesh,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,357.51,197.2,97.96
+KITDOGSTR300PL,Standard Dog-Proofer 300ft Fence Extension System Kit - Durable Poly Mesh,Heavy Duty Zip Ties (100),,3,TIEHEAVY,,299.08,172.4,4.04
+KITDOGSTR300PL,Standard Dog-Proofer 300ft Fence Extension System Kit - Durable Poly Mesh,Standard Dog-Proofer Fence Extension Arm,,36,DOG-STR-ARM,,299.08,172.4,5.25
+KITDOGSTR300PL,Standard Dog-Proofer 300ft Fence Extension System Kit - Durable Poly Mesh,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,299.08,172.4,0
+KITDOGSTR300PL,Standard Dog-Proofer 300ft Fence Extension System Kit - Durable Poly Mesh,4' x 330 Height Poly Fence Roll,,1,FENCE4X330,,299.08,172.4,97.96
+KITDOGSTR400PL,Standard Dog-Proofer 400ft Fence Extension System Kit - Durable Poly Mesh,Heavy Duty Zip Ties (100),,4,TIEHEAVY,,374.16,239.2,4.04
+KITDOGSTR400PL,Standard Dog-Proofer 400ft Fence Extension System Kit - Durable Poly Mesh,Standard Dog-Proofer Fence Extension Arm,,48,DOG-STR-ARM,,374.16,239.2,5.25
+KITDOGSTR400PL,Standard Dog-Proofer 400ft Fence Extension System Kit - Durable Poly Mesh,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,374.16,239.2,0
+KITDOGSTR400PL,Standard Dog-Proofer 400ft Fence Extension System Kit - Durable Poly Mesh,4' x 200 Height Poly Fence Roll,,2,FENCE4X200,,374.16,239.2,53
+KITDOGSTR200PL,Standard Dog-Proofer 200ft Fence Extension System Kit - Durable Poly Mesh,Heavy Duty Zip Ties (100),,2,TIEHEAVY,,187.08,119.6,4.04
+KITDOGSTR200PL,Standard Dog-Proofer 200ft Fence Extension System Kit - Durable Poly Mesh,Standard Dog-Proofer Fence Extension Arm,,24,DOG-STR-ARM,,187.08,119.6,5.25
+KITDOGSTR200PL,Standard Dog-Proofer 200ft Fence Extension System Kit - Durable Poly Mesh,Straight Dog Kit Instructions,,1,INS-DOGSTRAIGHT,,187.08,119.6,0
+KITDOGSTR200PL,Standard Dog-Proofer 200ft Fence Extension System Kit - Durable Poly Mesh,4' x 200 Height Poly Fence Roll,,1,FENCE4X200,,187.08,119.6,53
+DB24X150,"Wide Gap Fence Dog Barrier Kit - 24"" x 150 Feet","Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,1,WELDEDWIRE2X100,,45.68,43.6,25
+DB24X150,"Wide Gap Fence Dog Barrier Kit - 24"" x 150 Feet","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,45.68,43.6,12.6
+DB24X150,"Wide Gap Fence Dog Barrier Kit - 24"" x 150 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,45.68,43.6,0
+DB24X150,"Wide Gap Fence Dog Barrier Kit - 24"" x 150 Feet",Heavy Duty Zip Ties (100),,2,TIEHEAVY,,45.68,43.6,4.04
+DB24X250,"Wide Gap Fence Dog Barrier Kit - 24"" x 250 Feet","Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,2,WELDEDWIRE2X100,,74.72,86.4,25
+DB24X250,"Wide Gap Fence Dog Barrier Kit - 24"" x 250 Feet","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,74.72,86.4,12.6
+DB24X250,"Wide Gap Fence Dog Barrier Kit - 24"" x 250 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,74.72,86.4,0
+DB24X250,"Wide Gap Fence Dog Barrier Kit - 24"" x 250 Feet",Heavy Duty Zip Ties (100),,3,TIEHEAVY,,74.72,86.4,4.04
+DB24X350,"Wide Gap Fence Dog Barrier Kit - 24"" x 350 Feet","Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,3,WELDEDWIRE2X100,,103.76,129.2,25
+DB24X350,"Wide Gap Fence Dog Barrier Kit - 24"" x 350 Feet","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,103.76,129.2,12.6
+DB24X350,"Wide Gap Fence Dog Barrier Kit - 24"" x 350 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,103.76,129.2,0
+DB24X350,"Wide Gap Fence Dog Barrier Kit - 24"" x 350 Feet",Heavy Duty Zip Ties (100),,4,TIEHEAVY,,103.76,129.2,4.04
+DB24X300,"Wide Gap Fence Dog Barrier Kit - 24"" x 300 Feet","Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,3,WELDEDWIRE2X100,,87.12,128.4,25
+DB24X300,"Wide Gap Fence Dog Barrier Kit - 24"" x 300 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,87.12,128.4,0
+DB24X300,"Wide Gap Fence Dog Barrier Kit - 24"" x 300 Feet",Heavy Duty Zip Ties (100),,3,TIEHEAVY,,87.12,128.4,4.04
+DB24X400,"Wide Gap Fence Dog Barrier Kit - 24"" x 400 Feet","Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,4,WELDEDWIRE2X100,,116.16,171.2,25
+DB24X400,"Wide Gap Fence Dog Barrier Kit - 24"" x 400 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,116.16,171.2,0
+DB24X400,"Wide Gap Fence Dog Barrier Kit - 24"" x 400 Feet",Heavy Duty Zip Ties (100),,4,TIEHEAVY,,116.16,171.2,4.04
+DB24X200,"Wide Gap Fence Dog Barrier Kit - 24"" x 200 Feet","Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,2,WELDEDWIRE2X100,,58.08,85.6,25
+DB24X200,"Wide Gap Fence Dog Barrier Kit - 24"" x 200 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,58.08,85.6,0
+DB24X200,"Wide Gap Fence Dog Barrier Kit - 24"" x 200 Feet",Heavy Duty Zip Ties (100),,2,TIEHEAVY,,58.08,85.6,4.04
+DB42X200,"Wide Gap Fence Dog Barrier Kit - 42"" x 200 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,92.08,1.6,0
+DB42X200,"Wide Gap Fence Dog Barrier Kit - 42"" x 200 Feet",Heavy Duty Zip Ties (100),,2,TIEHEAVY,,92.08,1.6,4.04
+DB42X200,"Wide Gap Fence Dog Barrier Kit - 42"" x 200 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,92.08,1.6,42
+DB42X300,"Wide Gap Fence Dog Barrier Kit - 42"" x 300 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,138.12,2.4,0
+DB42X300,"Wide Gap Fence Dog Barrier Kit - 42"" x 300 Feet",Heavy Duty Zip Ties (100),,3,TIEHEAVY,,138.12,2.4,4.04
+DB42X300,"Wide Gap Fence Dog Barrier Kit - 42"" x 300 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,138.12,2.4,42
+DB42X400,"Wide Gap Fence Dog Barrier Kit - 42"" x 400 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,184.16,3.2,0
+DB42X400,"Wide Gap Fence Dog Barrier Kit - 42"" x 400 Feet",Heavy Duty Zip Ties (100),,4,TIEHEAVY,,184.16,3.2,4.04
+DB42X400,"Wide Gap Fence Dog Barrier Kit - 42"" x 400 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,4,WELDEDWIRE42X100,,184.16,3.2,42
+DB42X350,"Wide Gap Fence Dog Barrier Kit - 42"" x 350 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,163.16,3.2,0
+DB42X350,"Wide Gap Fence Dog Barrier Kit - 42"" x 350 Feet",Heavy Duty Zip Ties (100),,4,TIEHEAVY,,163.16,3.2,4.04
+DB42X350,"Wide Gap Fence Dog Barrier Kit - 42"" x 350 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,163.16,3.2,42
+DB42X350,"Wide Gap Fence Dog Barrier Kit - 42"" x 350 Feet","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,163.16,3.2,21
+DB42X250,"Wide Gap Fence Dog Barrier Kit - 42"" x 250 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,117.12,2.4,0
+DB42X250,"Wide Gap Fence Dog Barrier Kit - 42"" x 250 Feet",Heavy Duty Zip Ties (100),,3,TIEHEAVY,,117.12,2.4,4.04
+DB42X250,"Wide Gap Fence Dog Barrier Kit - 42"" x 250 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,117.12,2.4,42
+DB42X250,"Wide Gap Fence Dog Barrier Kit - 42"" x 250 Feet","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,117.12,2.4,21
+DB42X150,"Wide Gap Fence Dog Barrier Kit - 42"" x 150 Feet",Instructions For Wide Gap Fence Barrier Kits,,1,INS-WIDEGAP,,71.08,1.6,0
+DB42X150,"Wide Gap Fence Dog Barrier Kit - 42"" x 150 Feet",Heavy Duty Zip Ties (100),,2,TIEHEAVY,,71.08,1.6,4.04
+DB42X150,"Wide Gap Fence Dog Barrier Kit - 42"" x 150 Feet","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,71.08,1.6,42
+DB42X150,"Wide Gap Fence Dog Barrier Kit - 42"" x 150 Feet","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,71.08,1.6,21
+KITDOGDIG150,Dig Proofer 150 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,1,WELDEDWIRE2X100,,72.7,63,25
+KITDOGDIG150,Dig Proofer 150 Feet Kit,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,72.7,63,12.6
+KITDOGDIG150,Dig Proofer 150 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,3,STAKES,,72.7,63,11.7
+KITDOGDIG150,Dig Proofer 150 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,72.7,63,0
+KITDOGDIG250,Dig Proofer 250 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,2,WELDEDWIRE2X100,,121.1,119,25
+KITDOGDIG250,Dig Proofer 250 Feet Kit,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,121.1,119,12.6
+KITDOGDIG250,Dig Proofer 250 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,5,STAKES,,121.1,119,11.7
+KITDOGDIG250,Dig Proofer 250 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,121.1,119,0
+KITDOGDIG350,Dig Proofer 350 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,3,WELDEDWIRE2X100,,169.5,175,25
+KITDOGDIG350,Dig Proofer 350 Feet Kit,"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,169.5,175,12.6
+KITDOGDIG350,Dig Proofer 350 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,7,STAKES,,169.5,175,11.7
+KITDOGDIG350,Dig Proofer 350 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,169.5,175,0
+KITDOGDIG300,Dig Proofer 300 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,3,WELDEDWIRE2X100,,145.2,168,25
+KITDOGDIG300,Dig Proofer 300 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,6,STAKES,,145.2,168,11.7
+KITDOGDIG300,Dig Proofer 300 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,145.2,168,0
+KITDOGDIG400,Dig Proofer 400 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,4,WELDEDWIRE2X100,,193.6,224,25
+KITDOGDIG400,Dig Proofer 400 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,8,STAKES,,193.6,224,11.7
+KITDOGDIG400,Dig Proofer 400 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,193.6,224,0
+KITDOGDIG200,Dig Proofer 200 Feet Kit,"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,2,WELDEDWIRE2X100,,96.8,112,25
+KITDOGDIG200,Dig Proofer 200 Feet Kit,"Galvanized 12"" Ground Stakes (Box of 30)",,4,STAKES,,96.8,112,11.7
+KITDOGDIG200,Dig Proofer 200 Feet Kit,Dig Proofer Instructions,,1,INS-DIGP,,96.8,112,0
+KITDOGDIG200XL,"Dig Proofer XL 200 Feet Kit - 42"" Tall","Galvanized 12"" Ground Stakes (Box of 30)",,8,STAKES,,177.6,56,11.7
+KITDOGDIG200XL,"Dig Proofer XL 200 Feet Kit - 42"" Tall",Dig Proofer Instructions,,1,INS-DIGP,,177.6,56,0
+KITDOGDIG200XL,"Dig Proofer XL 200 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,177.6,56,42
+KITDOGDIG300XL,"Dig Proofer XL 300 Feet Kit - 42"" Tall","Galvanized 12"" Ground Stakes (Box of 30)",,12,STAKES,,266.4,84,11.7
+KITDOGDIG300XL,"Dig Proofer XL 300 Feet Kit - 42"" Tall",Dig Proofer Instructions,,1,INS-DIGP,,266.4,84,0
+KITDOGDIG300XL,"Dig Proofer XL 300 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,266.4,84,42
+KITDOGDIG400XL,"Dig Proofer XL 400 Feet Kit - 42"" Tall","Galvanized 12"" Ground Stakes (Box of 30)",,16,STAKES,,355.2,112,11.7
+KITDOGDIG400XL,"Dig Proofer XL 400 Feet Kit - 42"" Tall",Dig Proofer Instructions,,1,INS-DIGP,,355.2,112,0
+KITDOGDIG400XL,"Dig Proofer XL 400 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,4,WELDEDWIRE42X100,,355.2,112,42
+KITDOGDIG350XL,"Dig Proofer XL 350 Feet Kit - 42"" Tall","Galvanized 12"" Ground Stakes (Box of 30)",,14,STAKES,,310.8,98,11.7
+KITDOGDIG350XL,"Dig Proofer XL 350 Feet Kit - 42"" Tall",Dig Proofer Instructions,,1,INS-DIGP,,310.8,98,0
+KITDOGDIG350XL,"Dig Proofer XL 350 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,3,WELDEDWIRE42X100,,310.8,98,42
+KITDOGDIG350XL,"Dig Proofer XL 350 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,310.8,98,21
+KITDOGDIG250XL,"Dig Proofer XL 250 Feet Kit - 42"" Tall","Galvanized 12"" Ground Stakes (Box of 30)",,10,STAKES,,222,70,11.7
+KITDOGDIG250XL,"Dig Proofer XL 250 Feet Kit - 42"" Tall",Dig Proofer Instructions,,1,INS-DIGP,,222,70,0
+KITDOGDIG250XL,"Dig Proofer XL 250 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,2,WELDEDWIRE42X100,,222,70,42
+KITDOGDIG250XL,"Dig Proofer XL 250 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,222,70,21
+KITDOGDIG150XL,"Dig Proofer XL 150 Feet Kit - 42"" Tall","Galvanized 12"" Ground Stakes (Box of 30)",,6,STAKES,,133.2,42,11.7
+KITDOGDIG150XL,"Dig Proofer XL 150 Feet Kit - 42"" Tall",Dig Proofer Instructions,,1,INS-DIGP,,133.2,42,0
+KITDOGDIG150XL,"Dig Proofer XL 150 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 42"" x 100' Long - 1.7 X 1.7 square (1.6/2.0mm)",,1,WELDEDWIRE42X100,,133.2,42,42
+KITDOGDIG150XL,"Dig Proofer XL 150 Feet Kit - 42"" Tall","Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 40"" x 50' Long",,1,WELDEDWIRE42X50-1.7X1.7,,133.2,42,21
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"86"" Post",,13,POST86,,372.13,283.7,5.76
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Post Cap for 1 3/8in Post,,13,POSTCAP,,372.13,283.7,0.15
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Spring-Loaded Houdini Cat Fence Arm,,13,ARM,,372.13,283.7,2.85
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,13,ARMMOUNTING138,,372.13,283.7,1.7
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Sleeve for 1 3/8"" Posts",,13,SLEEVE138,,372.13,283.7,3.28
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Poly Fence 7.5'H x 165' Long,,1,FENCE7.5X165,,372.13,283.7,93.88
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,1,WELDEDWIRE2X100,,372.13,283.7,25
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,372.13,283.7,12.6
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,372.13,283.7,2.2
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,372.13,283.7,1.25
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Self-Drilling and Tapping Screw,,27,SELFTAP,,372.13,283.7,0.05
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,372.13,283.7,0.39
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Set Screw 5/16"" - 18",,27,SETSCREW,,372.13,283.7,0.1
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Arm to Wall Strap,,2,STRAPAW,,372.13,283.7,0.13
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Post to Wall Strap,,4,STRAPPW,,372.13,283.7,0.15
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Heavy Duty Zip Ties (100),,3,TIEHEAVY,,372.13,283.7,4.04
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Standard Zip Ties - (100),,6,TIELIGHT,,372.13,283.7,1.01
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,3,STAKES,,372.13,283.7,11.7
+KIT-FREESTANDING-150,Free-Standing Cat Fence Enclosure System (150 Feet),Freestanding Kit Instructions,,1,INS-FS,,372.13,283.7,0
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"86"" Post",,21,POST86,,612.64,456.5,5.76
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Post Cap for 1 3/8in Post,,21,POSTCAP,,612.64,456.5,0.15
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Spring-Loaded Houdini Cat Fence Arm,,21,ARM,,612.64,456.5,2.85
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,21,ARMMOUNTING138,,612.64,456.5,1.7
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Sleeve for 1 3/8"" Posts",,21,SLEEVE138,,612.64,456.5,3.28
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Poly Fence 7.5'H x 165' Long,,1,FENCE7.5X165,,612.64,456.5,93.88
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,2,WELDEDWIRE2X100,,612.64,456.5,25
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,612.64,456.5,12.6
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Driving Cap for 1 3/8"" Sleeve",,1,DRIVECAP138,,612.64,456.5,2.2
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,612.64,456.5,1.25
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Self-Drilling and Tapping Screw,,44,SELFTAP,,612.64,456.5,0.05
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,612.64,456.5,0.39
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Set Screw 5/16"" - 18",,44,SETSCREW,,612.64,456.5,0.1
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Arm to Wall Strap,,4,STRAPAW,,612.64,456.5,0.13
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Post to Wall Strap,,8,STRAPPW,,612.64,456.5,0.15
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Heavy Duty Zip Ties (100),,5,TIEHEAVY,,612.64,456.5,4.04
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Standard Zip Ties - (100),,10,TIELIGHT,,612.64,456.5,1.01
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,5,STAKES,,612.64,456.5,11.7
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),Freestanding Kit Instructions,,1,INS-FS,,612.64,456.5,0
+KIT-FREESTANDING-250,Free-Standing Cat Fence Enclosure System (250 Feet),7.5' Height x 100 Poly Fence Roll,,1,FENCE7.5X100,,612.64,456.5,66.66
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"86"" Post",,29,POST86,,822.5,599.7,5.76
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Post Cap for 1 3/8in Post,,29,POSTCAP,,822.5,599.7,0.15
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Spring-Loaded Houdini Cat Fence Arm,,29,ARM,,822.5,599.7,2.85
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,29,ARMMOUNTING138,,822.5,599.7,1.7
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Sleeve for 1 3/8"" Posts",,29,SLEEVE138,,822.5,599.7,3.28
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,3,WELDEDWIRE2X100,,822.5,599.7,25
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,822.5,599.7,12.6
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Driving Cap for 1 3/8"" Sleeve",,2,DRIVECAP138,,822.5,599.7,2.2
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,822.5,599.7,1.25
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Self-Drilling and Tapping Screw,,60,SELFTAP,,822.5,599.7,0.05
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,822.5,599.7,0.39
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Set Screw 5/16"" - 18",,60,SETSCREW,,822.5,599.7,0.1
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Arm to Wall Strap,,4,STRAPAW,,822.5,599.7,0.13
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Post to Wall Strap,,8,STRAPPW,,822.5,599.7,0.15
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Heavy Duty Zip Ties (100),,7,TIEHEAVY,,822.5,599.7,4.04
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Standard Zip Ties - (100),,14,TIELIGHT,,822.5,599.7,1.01
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,7,STAKES,,822.5,599.7,11.7
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),Freestanding Kit Instructions,,1,INS-FS,,822.5,599.7,0
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,1,FENCE7.5X330,,822.5,599.7,153.08
+KIT-FREESTANDING-350,Free-Standing Cat Fence Enclosure System (350 Feet),7.5' Height x 50 Poly Fence Roll,,1,FENCE7.5X50,,822.5,599.7,42.28
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"86"" Post",,37,POST86,,1046.94,800.9,5.76
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Post Cap for 1 3/8in Post,,37,POSTCAP,,1046.94,800.9,0.15
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Spring-Loaded Houdini Cat Fence Arm,,37,ARM,,1046.94,800.9,2.85
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,37,ARMMOUNTING138,,1046.94,800.9,1.7
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Sleeve for 1 3/8"" Posts",,37,SLEEVE138,,1046.94,800.9,3.28
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,4,WELDEDWIRE2X100,,1046.94,800.9,25
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,1046.94,800.9,12.6
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Driving Cap for 1 3/8"" Sleeve",,2,DRIVECAP138,,1046.94,800.9,2.2
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,1046.94,800.9,1.25
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Self-Drilling and Tapping Screw,,76,SELFTAP,,1046.94,800.9,0.05
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,1046.94,800.9,0.39
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Set Screw 5/16"" - 18",,76,SETSCREW,,1046.94,800.9,0.1
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Arm to Wall Strap,,4,STRAPAW,,1046.94,800.9,0.13
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Post to Wall Strap,,8,STRAPPW,,1046.94,800.9,0.15
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Heavy Duty Zip Ties (100),,9,TIEHEAVY,,1046.94,800.9,4.04
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Standard Zip Ties - (100),,18,TIELIGHT,,1046.94,800.9,1.01
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,9,STAKES,,1046.94,800.9,11.7
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Freestanding Kit Instructions,,1,INS-FS,,1046.94,800.9,0
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,1,FENCE7.5X330,,1046.94,800.9,153.08
+KIT-FREESTANDING-450,Free-Standing Cat Fence Enclosure System (450 Feet),Poly Fence 7.5'H x 165' Long,,1,FENCE7.5X165,,1046.94,800.9,93.88
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"86"" Post",,45,POST86,,1286.59,972.5,5.76
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Post Cap for 1 3/8in Post,,45,POSTCAP,,1286.59,972.5,0.15
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Spring-Loaded Houdini Cat Fence Arm,,45,ARM,,1286.59,972.5,2.85
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,45,ARMMOUNTING138,,1286.59,972.5,1.7
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Sleeve for 1 3/8"" Posts",,45,SLEEVE138,,1286.59,972.5,3.28
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,5,WELDEDWIRE2X100,,1286.59,972.5,25
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Black Vinyl Coated Welded Wire (Galvanized) 1.6mm/2.00mm, 24"" x 50' Long",,1,WELDEDWIRE24X50-1.7X1.7,,1286.59,972.5,12.6
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Driving Cap for 1 3/8"" Sleeve",,2,DRIVECAP138,,1286.59,972.5,2.2
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,1286.59,972.5,1.25
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Self-Drilling and Tapping Screw,,93,SELFTAP,,1286.59,972.5,0.05
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,1286.59,972.5,0.39
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Set Screw 5/16"" - 18",,93,SETSCREW,,1286.59,972.5,0.1
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Arm to Wall Strap,,4,STRAPAW,,1286.59,972.5,0.13
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Post to Wall Strap,,8,STRAPPW,,1286.59,972.5,0.15
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Heavy Duty Zip Ties (100),,11,TIEHEAVY,,1286.59,972.5,4.04
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Standard Zip Ties - (100),,22,TIELIGHT,,1286.59,972.5,1.01
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,11,STAKES,,1286.59,972.5,11.7
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Freestanding Kit Instructions,,1,INS-FS,,1286.59,972.5,0
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,1,FENCE7.5X330,,1286.59,972.5,153.08
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),Poly Fence 7.5'H x 165' Long,,1,FENCE7.5X165,,1286.59,972.5,93.88
+KIT-FREESTANDING-550,Free-Standing Cat Fence Enclosure System (550 Feet),7.5' Height x 100 Poly Fence Roll,,1,FENCE7.5X100,,1286.59,972.5,66.66
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"86"" Post",,48,POST86,,1351.41,1035.2,5.76
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Post Cap for 1 3/8in Post,,48,POSTCAP,,1351.41,1035.2,0.15
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Spring-Loaded Houdini Cat Fence Arm,,48,ARM,,1351.41,1035.2,2.85
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"Free-Standing System Arm Mounting for 1 3/8"" Post",,48,ARMMOUNTING138,,1351.41,1035.2,1.7
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"Sleeve for 1 3/8"" Posts",,48,SLEEVE138,,1351.41,1035.2,3.28
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"Black Vinyl Coated (Galvanized) 24"" x 100' Welded Wire 1.7 x 1.7 (1.6mm/2.0mm)",,6,WELDEDWIRE2X100,,1351.41,1035.2,25
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"Driving Cap for 1 3/8"" Sleeve",,2,DRIVECAP138,,1351.41,1035.2,2.2
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),3/8in Driver Bit for Self-Tapping Screws,,1,DRIVERBIT,,1351.41,1035.2,1.25
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Self-Drilling and Tapping Screw,,99,SELFTAP,,1351.41,1035.2,0.05
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Hex Wrench for Set Screws,,1,HEXWRENCH,,1351.41,1035.2,0.39
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"Set Screw 5/16"" - 18",,99,SETSCREW,,1351.41,1035.2,0.1
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Arm to Wall Strap,,4,STRAPAW,,1351.41,1035.2,0.13
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Post to Wall Strap,,8,STRAPPW,,1351.41,1035.2,0.15
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Heavy Duty Zip Ties (100),,12,TIEHEAVY,,1351.41,1035.2,4.04
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Standard Zip Ties - (100),,24,TIELIGHT,,1351.41,1035.2,1.01
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),"Galvanized 12"" Ground Stakes (Box of 30)",,12,STAKES,,1351.41,1035.2,11.7
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),Freestanding Kit Instructions,,1,INS-FS,,1351.41,1035.2,0
+KIT-FREESTANDING-600,Free-Standing Cat Fence Enclosure System (600 Feet),1A120246 C-FLEX (USA) 7.5'X 330',,2,FENCE7.5X330,,1351.41,1035.2,153.08
+FS-ARM-ASS,Freestanding Arm Assembly,ARM,,1,ARM,,4.75,4.4,2.85
+FS-ARM-ASS,Freestanding Arm Assembly,"Free-Standing System Arm Mounting for 1 3/8"" Post",,1,ARMMOUNTING138,,4.75,4.4,1.7
+FS-ARM-ASS,Freestanding Arm Assembly,"Set Screw 5/16"" - 18",,2,SETSCREW,,4.75,4.4,0.1
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,Spring-Loaded Houdini Cat Fence Arm,,3,ARM,,42.27,42.1,2.85
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,"Free-Standing System Arm Mounting for 1 3/8"" Post",,3,ARMMOUNTING138,,42.27,42.1,1.7
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,"86"" Post",,3,POST86,,42.27,42.1,5.76
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,Post Cap for 1 3/8in Post,,3,POSTCAP,,42.27,42.1,0.15
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,"Sleeve for 1 3/8"" Posts",,3,SLEEVE138,,42.27,42.1,3.28
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,"Set Screw 5/16"" - 18",,7,SETSCREW,,42.27,42.1,0.1
+KIT-3POST,3 Post Kit Add on to Freestanding Fencing System,Self-Drilling and Tapping Screw,,7,SELFTAP,,42.27,42.1,0.05
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,Spring-Loaded Houdini Cat Fence Arm,,4,ARM,,56.31,56,2.85
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,"Free-Standing System Arm Mounting for 1 3/8"" Post",,4,ARMMOUNTING138,,56.31,56,1.7
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,"86"" Post",,4,POST86,,56.31,56,5.76
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,Post Cap for 1 3/8in Post,,4,POSTCAP,,56.31,56,0.15
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,"Sleeve for 1 3/8"" Posts",,4,SLEEVE138,,56.31,56,3.28
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,"Set Screw 5/16"" - 18",,9,SETSCREW,,56.31,56,0.1
+KIT-4POST,4 Post Kit Add on to Freestanding Fencing System,Self-Drilling and Tapping Screw,,9,SELFTAP,,56.31,56,0.05
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,Spring-Loaded Houdini Cat Fence Arm,,5,ARM,,70.35,69.9,2.85
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,"Free-Standing System Arm Mounting for 1 3/8"" Post",,5,ARMMOUNTING138,,70.35,69.9,1.7
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,"86"" Post",,5,POST86,,70.35,69.9,5.76
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,Post Cap for 1 3/8in Post,,5,POSTCAP,,70.35,69.9,0.15
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,"Sleeve for 1 3/8"" Posts",,5,SLEEVE138,,70.35,69.9,3.28
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,"Set Screw 5/16"" - 18",,11,SETSCREW,,70.35,69.9,0.1
+KIT-5POST,5 Post Kit Add on to Freestanding Fencing System,Self-Drilling and Tapping Screw,,11,SELFTAP,,70.35,69.9,0.05
